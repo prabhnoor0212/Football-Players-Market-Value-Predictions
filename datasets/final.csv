@@ -1,0 +1,317 @@
+Age,Assists,C_Apps,C_Assists,C_Clean_Sheets,C_Goals,C_Mins,Clean Sheets,Club,Club_Appearances,Country,Current_Value,F_Def,F_Drib,F_Pace,F_Passing,F_Phy,F_Rating,F_Shooting,F_WRate,FantasyLeaguePoints,FantasyLeagueVal,Goals,Goals_per_game,Mins_per_goal,Minutes_played_club,Name,Position,Previous_Value,Wiki_Views
+30.0,12.0,18.0,7.0,0.0,14.0,1620.0,,FC Barcelona,34.0,Argentina,"180,00 Mill. ",26.0,95.0,89.0,86.0,61.0,93.0,90.0,Medium / Medium,127.0,30.0,37.0,1.09,77.0,2832.0,Lionel Messi,Right Wing,"120,00 Mill. ","23,736"
+29.0,3.0,15.0,2.0,9.0,1.0,1313.0,,FC Barcelona,33.0,Spain,"80,00 Mill. ",82.0,74.0,40.0,79.0,81.0,86.0,59.0,Medium / Medium,58.0,11.5,0.0,0,,2693.0,Sergio Busquets,Defensive Midfield,"60,00 Mill. ","1,124"
+20.0,13.0,2.0,1.0,1.0,0.0,118.0,,FC Barcelona,32.0,France,"80,00 Mill. ",32.0,88.0,91.0,75.0,56.0,83.0,76.0,High / Low,10.0,3.5,6.0,0.18,340.0,2040.0,Ousmane Dembélé,Left Wing,"33,00 Mill. ","4,782"
+29.0,6.0,16.0,3.0,12.0,0.0,1452.0,,FC Barcelona,32.0,Croatia,"45,00 Mill. ",60.0,82.0,65.0,86.0,66.0,87.0,84.0,Medium / Medium,68.0,15.0,7.0,0.22,335.0,2344.0,Ivan Rakitic,Central Midfield,"45,00 Mill. ",9
+28.0,6.0,16.0,6.0,11.0,1.0,1428.0,,FC Barcelona,26.0,Spain,"40,00 Mill. ",81.0,82.0,93.0,75.0,72.0,85.0,69.0,High / Medium,99.0,13.0,1.0,0.04,1.966,1966.0,Jordi Alba,Left-Back,"32,00 Mill. ",792
+30.0,15.0,15.0,1.0,0.0,11.0,1342.0,,FC Barcelona,35.0,Uruguay,"85,00 Mill. ",42.0,86.0,82.0,79.0,81.0,92.0,90.0,High / Medium,85.0,24.0,29.0,0.83,99.0,2862.0,Luis Suárez,Centre-Forward,"90,00 Mill. ","4,844"
+24.0,0.0,12.0,0.0,7.0,0.0,1062.0,,FC Barcelona,25.0,France,"40,00 Mill. ",82.0,71.0,74.0,71.0,79.0,83.0,64.0,Medium / High,50.0,5.5,1.0,0.04,2.1319999999999997,2132.0,Samuel Umtiti,Centre-Back,"30,00 Mill. ","1,199"
+29.0,4.0,10.0,2.0,7.0,7.0,922.0,,FC Barcelona,20.0,Brazil,"40,00 Mill. ",77.0,77.0,76.0,74.0,76.0,81.0,74.0,High / High,81.0,9.0,7.0,0.35,257.0,1800.0,Paulinho,Central Midfield,"20,00 Mill. ",48
+30.0,0.0,13.0,0.0,8.0,1.0,1170.0,,FC Barcelona,25.0,Spain,"40,00 Mill. ",86.0,66.0,65.0,69.0,76.0,87.0,61.0,High / Medium,61.0,7.8,2.0,0.08,1.0959999999999999,2192.0,Gerard Piqué,Centre-Back,"40,00 Mill. ","5,308"
+25.0,6.0,12.0,6.0,10.0,1.0,1130.0,,FC Barcelona,32.0,Spain,"40,00 Mill. ",79.0,75.0,77.0,80.0,72.0,81.0,64.0,Medium / Medium,90.0,10.5,0.0,0,,2381.0,Sergi Roberto,Central Midfield,"25,00 Mill. ",962
+25.0,0.0,18.0,0.0,12.0,0.0,1620.0,13.0,FC Barcelona,36.0,Germany,"40,00 Mill. ",38.0,86.0,84.0,87.0,81.0,85.0,83.0,No,99.0,17.0,0.0,0,,3240.0,Marc-André ter Stegen,Keeper,"25,00 Mill. ","1,372"
+24.0,8.0,7.0,0.0,3.0,0.0,621.0,,FC Barcelona,31.0,Portugal,"30,00 Mill. ",76.0,80.0,92.0,68.0,71.0,81.0,57.0,High / Medium,32.0,3.0,1.0,0.03,2782.0,2781.0,Nélson Semedo,Right-Back,"20,00 Mill. ","1,630"
+24.0,3.0,4.0,2.0,0.0,2.0,336.0,,FC Barcelona,20.0,Spain,"18,00 Mill. ",34.0,80.0,77.0,70.0,67.0,82.0,83.0,High / Medium,29.0,2.0,6.0,0.3,141.0,847.0,Paco Alcácer,Centre-Forward,"18,00 Mill. ","2,456"
+24.0,0.0,2.0,1.0,1.0,0.0,192.0,,FC Barcelona,17.0,France,"16,00 Mill. ",75.0,75.0,80.0,75.0,75.0,79.0,61.0,High / Medium,13.0,2.0,0.0,0,,1175.0,Lucas Digne,Left-Back,"16,00 Mill. ",9
+24.0,2.0,2.0,0.0,1.0,0.0,259.0,,FC Barcelona,30.0,Portugal,"22,00 Mill. ",71.0,78.0,68.0,78.0,81.0,82.0,71.0,Medium / Medium,13.0,3.0,3.0,0.1,531.0,1592.0,André Gomes,Central Midfield,"25,00 Mill. ",324
+33.0,3.0,14.0,0.0,9.0,1.0,1041.0,,FC Barcelona,23.0,Spain,"20,00 Mill. ",58.0,90.0,71.0,87.0,58.0,87.0,70.0,High / Medium,55.0,6.5,0.0,0,,1329.0,Andrés Iniesta,Central Midfield,"20,00 Mill. ","4,844"
+23.0,4.0,3.0,2.0,2.0,2.0,383.0,,FC Barcelona,26.0,Spain,"18,00 Mill. ",51.0,83.0,79.0,81.0,58.0,80.0,74.0,Medium / Medium,35.0,2.5,1.0,0.04,1.182,1182.0,Denis Suárez,Central Midfield,"18,00 Mill. ","4,257"
+24.0,2.0,0.0,0.0,0.0,0.0,0.0,,FC Barcelona,18.0,Brazil,"15,00 Mill. ",62.0,84.0,74.0,79.0,64.0,81.0,76.0,Medium / Medium,0.0,2.0,6.0,0.33,179.0,1074.0,Rafinha,Central Midfield,"15,00 Mill. ",20
+23.0,3.0,5.0,1.0,0.0,1.0,494.0,,FC Barcelona,17.0,Spain,"14,00 Mill. ",26.0,87.0,93.0,75.0,61.0,82.0,70.0,High / Low,26.0,2.0,4.0,0.23,366.0,1463.0,Gerard Deulofeu,Right Wing,"12,00 Mill. ",507
+28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,FC Barcelona,1.0,Netherlands,"9,00 Mill. ",54.0,77.0,79.0,74.0,81.0,81.0,83.0,No,0.0,2.0,0.0,0,,90.0,Jasper Cillessen,Keeper,"9,00 Mill. ",78
+30.0,3.0,0.0,0.0,0.0,0.0,0.0,,FC Barcelona,18.0,Turkey,"12,00 Mill. ",61.0,84.0,71.0,81.0,72.0,82.0,73.0,High / High,0.0,2.0,3.0,0.17,415.0,1244.0,Arda Turan,Left Wing,"15,00 Mill. ",13
+28.0,2.0,3.0,1.0,4.0,1.0,347.0,,FC Barcelona,6.0,Spain,"7,50 Mill. ",69.0,80.0,91.0,72.0,70.0,76.0,67.0,High / Medium,38.0,2.5,2.0,0.33,238.0,475.0,Aleix Vidal,Right-Back,"7,50 Mill. ",403
+33.0,3.0,6.0,0.0,5.0,0.0,541.0,,FC Barcelona,25.0,Argentina,"6,00 Mill. ",82.0,70.0,65.0,71.0,77.0,83.0,53.0,Medium / High,34.0,2.7,1.0,0.04,1.916,1916.0,Javier Mascherano,Centre-Back,"8,00 Mill. ",51
+32.0,0.0,5.0,0.0,4.0,0.0,468.0,,FC Barcelona,9.0,Belgium,"5,00 Mill. ",76.0,60.0,68.0,67.0,74.0,78.0,61.0,High / Medium,25.0,3.5,0.0,0,,388.0,Thomas Vermaelen,Centre-Back,"3,00 Mill. ",311
+26.0,8.0,15.0,4.0,0.0,5.0,1284.0,,Atlético Madrid,36.0,France,"100,00 Mill. ",30.0,87.0,86.0,78.0,68.0,88.0,85.0,High / Medium,65.0,20.5,16.0,0.44,192.0,3067.0,Antoine Griezmann,Centre-Forward,"80,00 Mill. ","4,189"
+25.0,8.0,15.0,2.0,9.0,2.0,1348.0,,Atlético Madrid,36.0,Spain,"70,00 Mill. ",63.0,81.0,70.0,86.0,75.0,84.0,75.0,High / High,61.0,15.0,4.0,0.11,793.0,3172.0,Koke,Central Midfield,"60,00 Mill. ",13
+24.0,0.0,18.0,0.0,11.0,0.0,1620.0,15.0,Atlético Madrid,30.0,Slovenia,"50,00 Mill. ",43.0,84.0,84.0,77.0,87.0,88.0,90.0,No,91.0,16.5,0.0,0,,2651.0,Jan Oblak,Keeper,"40,00 Mill. ",850
+24.0,4.0,6.0,3.0,4.0,3.0,666.0,,Atlético Madrid,35.0,Belgium,"40,00 Mill. ",29.0,87.0,88.0,78.0,63.0,85.0,79.0,High / Medium,48.0,13.2,10.0,0.29,227.0,2269.0,Yannick Carrasco,Left Wing,"40,00 Mill. ",9
+23.0,3.0,17.0,2.0,10.0,2.0,1492.0,,Atlético Madrid,33.0,Spain,"70,00 Mill. ",77.0,81.0,73.0,78.0,75.0,82.0,69.0,Medium / High,65.0,15.0,4.0,0.12,636.0,2543.0,Saúl Ñíguez,Central Midfield,"40,00 Mill. ",917
+31.0,1.0,15.0,0.0,9.0,0.0,1350.0,,Atlético Madrid,31.0,Uruguay,"35,00 Mill. ",88.0,64.0,65.0,65.0,78.0,88.0,48.0,Medium / High,63.0,15.3,3.0,0.1,902.0,2706.0,Diego Godín,Centre-Back,"38,00 Mill. ",474
+26.0,1.0,15.0,0.0,10.0,0.0,1370.0,,Atlético Madrid,32.0,Montenegro,"30,00 Mill. ",83.0,57.0,63.0,52.0,74.0,82.0,35.0,Medium / High,64.0,13.0,1.0,0.03,2.727,2727.0,Stefan Savic,Centre-Back,"30,00 Mill. ",3
+28.0,7.0,8.0,0.0,1.0,1.0,690.0,,Atlético Madrid,30.0,Spain,"25,00 Mill. ",28.0,82.0,80.0,79.0,76.0,83.0,77.0,High / High,24.0,3.5,6.0,0.2,389.0,2333.0,Vitolo,Left Wing,"30,00 Mill. ",17
+22.0,0.0,5.0,0.0,1.0,1.0,519.0,,Atlético Madrid,17.0,Uruguay,"35,00 Mill. ",85.0,54.0,70.0,51.0,81.0,83.0,45.0,Medium / High,26.0,2.0,0.0,0,,1011.0,José Giménez,Centre-Back,"28,00 Mill. ",322
+25.0,0.0,6.0,3.0,4.0,0.0,543.0,,Atlético Madrid,14.0,Croatia,"20,00 Mill. ",84.0,82.0,86.0,83.0,83.0,84.0,63.0,High / Medium,35.0,3.5,0.0,0,,922.0,Sime Vrsaljko,Right-Back,"16,00 Mill. ",3
+22.0,8.0,14.0,1.0,0.0,5.0,1106.0,,Atlético Madrid,31.0,Argentina,"20,00 Mill. ",49.0,85.0,82.0,65.0,57.0,79.0,80.0,Medium / Low,63.0,9.5,4.0,0.13,303.0,1211.0,Ángel Correa,Secondary Striker,"18,00 Mill. ","23,736"
+30.0,5.0,6.0,1.0,0.0,3.0,509.0,,Atlético Madrid,31.0,France,"20,00 Mill. ",35.0,79.0,87.0,75.0,68.0,83.0,83.0,Medium / Medium,37.0,9.8,12.0,0.39,143.0,1717.0,Kévin Gameiro,Centre-Forward,"24,00 Mill. ","4,189"
+29.0,3.0,1.0,0.0,1.0,0.0,216.0,,Atlético Madrid,23.0,Argentina,"15,00 Mill. ",39.0,84.0,81.0,81.0,55.0,83.0,74.0,High / Medium,10.0,2.0,3.0,0.13,340.0,1019.0,Nico Gaitán,Left Wing,"20,00 Mill. ",792
+21.0,0.0,9.0,1.0,7.0,0.0,822.0,,Atlético Madrid,15.0,France,"20,00 Mill. ",76.0,57.0,65.0,53.0,70.0,76.0,42.0,Medium / High,47.0,3.5,0.0,0,,1253.0,Lucas Hernández,Centre-Back,"15,00 Mill. ",917
+32.0,6.0,11.0,1.0,6.0,1.0,981.0,,Atlético Madrid,34.0,Brazil,"18,00 Mill. ",82.0,78.0,79.0,77.0,79.0,85.0,62.0,High / Medium,55.0,13.2,3.0,0.09,1.003,3009.0,Filipe Luís,Left-Back,"18,00 Mill. ",10
+32.0,2.0,8.0,0.0,5.0,0.0,688.0,,Atlético Madrid,23.0,Spain,"8,00 Mill. ",80.0,77.0,82.0,75.0,77.0,83.0,58.0,High / Medium,31.0,2.1,0.0,0,,1977.0,Juanfran,Right-Back,"12,00 Mill. ",267
+24.0,2.0,14.0,0.0,9.0,2.0,1171.0,,Atlético Madrid,16.0,Ghana,"8,00 Mill. ",83.0,80.0,80.0,78.0,86.0,84.0,79.0,High / High,56.0,8.0,1.0,0.06,627.0,627.0,Thomas,Defensive Midfield,"4,50 Mill. ",982
+33.0,6.0,2.0,0.0,0.0,1.0,344.0,,Atlético Madrid,31.0,Spain,"4,00 Mill. ",25.0,78.0,76.0,71.0,69.0,81.0,78.0,Medium / Medium,19.0,4.9,8.0,0.26,177.0,1416.0,Fernando Torres,Centre-Forward,"4,00 Mill. ",89
+31.0,0.0,1.0,0.0,1.0,0.0,84.0,,Atlético Madrid,3.0,Argentina,"4,00 Mill. ",68.0,79.0,69.0,77.0,75.0,80.0,70.0,Medium / Medium,6.0,2.0,0.0,0,,143.0,Augusto Fernández,Central Midfield,"4,00 Mill. ","3,707"
+34.0,0.0,15.0,1.0,10.0,0.0,1346.0,,Atlético Madrid,34.0,Spain,"3,00 Mill. ",75.0,76.0,64.0,79.0,73.0,81.0,72.0,Medium / High,49.0,13.2,0.0,0,,2896.0,Gabi,Central Midfield,"3,00 Mill. ",15
+33.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,Atlético Madrid,9.0,Spain,"2,00 Mill. ",46.0,79.0,85.0,82.0,81.0,81.0,78.0,No,0.0,2.0,0.0,0,,769.0,Miguel Ángel Moyà,Keeper,"2,00 Mill. ",132
+21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Atlético Madrid,2.0,Argentina,"1,00 Mill. ",41.0,70.0,78.0,74.0,64.0,69.0,67.0,No,0.0,2.0,0.0,0,,180.0,Axel Werner,Keeper,"1,00 Mill. ",
+29.0,8.0,1.0,0.0,0.0,1.0,90.0,,Atlético Madrid,35.0,Spain,"50,00 Mill. ",40.0,76.0,75.0,65.0,88.0,86.0,83.0,High / Medium,4.0,2.0,20.0,0.57,155.0,3090.0,Diego Costa,Centre-Forward,"50,00 Mill. ",
+25.0,4.0,18.0,0.0,0.0,6.0,1620.0,,RCD Espanyol Barcelona,37.0,Spain,"12,00 Mill. ",45.0,76.0,66.0,65.0,63.0,78.0,77.0,High / Medium,67.0,16.1,13.0,0.35,252.0,3280.0,Gerard Moreno,Centre-Forward,"8,00 Mill. ",669
+24.0,2.0,16.0,0.0,6.0,1.0,1407.0,,RCD Espanyol Barcelona,23.0,Spain,"11,00 Mill. ",64.0,79.0,55.0,76.0,66.0,78.0,63.0,Medium / Low,46.0,7.0,1.0,0.043,1412.0,1412.0,Sergi Darder,Central Midfield,"11,00 Mill. ","1,298"
+28.0,2.0,18.0,0.0,6.0,0.0,1620.0,,RCD Espanyol Barcelona,36.0,Spain,"6,50 Mill. ",77.0,67.0,60.0,66.0,81.0,78.0,66.0,High / High,42.0,14.3,3.0,0.08,1.08,3240.0,David López,Centre-Back,"6,50 Mill. ",44
+28.0,11.0,14.0,2.0,4.0,1.0,1062.0,,RCD Espanyol Barcelona,30.0,Argentina,"6,00 Mill. ",42.0,80.0,82.0,75.0,56.0,79.0,71.0,High / Medium,50.0,12.5,10.0,0.33,236.0,2355.0,Pablo Piatti,Left Wing,"6,00 Mill. ",770
+30.0,1.0,13.0,1.0,4.0,0.0,1075.0,,RCD Espanyol Barcelona,26.0,Spain,"4,00 Mill. ",79.0,72.0,64.0,79.0,68.0,78.0,62.0,Medium / Medium,33.0,4.5,1.0,0.04,2.281,2281.0,Víctor Sánchez,Central Midfield,"4,00 Mill. ",672
+25.0,6.0,16.0,3.0,0.0,3.0,1333.0,,RCD Espanyol Barcelona,21.0,Brazil,"4,00 Mill. ",28.0,79.0,79.0,69.0,64.0,80.0,77.0,Medium / Medium,58.0,7.5,6.0,0.29,238.0,1427.0,Leo Baptistão,Centre-Forward,"4,00 Mill. ","1,397"
+31.0,4.0,13.0,2.0,4.0,0.0,1039.0,,RCD Espanyol Barcelona,31.0,Spain,"2,50 Mill. ",29.0,81.0,70.0,80.0,56.0,79.0,76.0,Medium / Low,41.0,9.5,3.0,0.1,820.0,2459.0,José Manuel Jurado,Attacking Midfield,"2,50 Mill. ",215
+30.0,1.0,1.0,1.0,0.0,0.0,328.0,,RCD Espanyol Barcelona,19.0,Spain,"1,50 Mill. ",65.0,77.0,57.0,82.0,63.0,78.0,72.0,Medium / Medium,12.0,2.5,0.0,0,,690.0,Esteban Granero,Central Midfield,"2,00 Mill. ",191
+28.0,0.0,1.0,0.0,0.0,0.0,140.0,,RCD Espanyol Barcelona,32.0,Paraguay,"1,50 Mill. ",29.0,80.0,82.0,73.0,72.0,79.0,74.0,High / Medium,4.0,2.2,3.0,0.09,597.0,1792.0,Hernán Pérez,Right Wing,"3,00 Mill. ",70
+36.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,RCD Espanyol Barcelona,35.0,Spain,"1,00 Mill. ",34.0,80.0,77.0,76.0,83.0,83.0,84.0,No,0.0,2.0,0.0,0,,3113.0,Diego López,Keeper,"1,00 Mill. ",
+22.0,2.0,1.0,0.0,2.0,0.0,170.0,,RCD Espanyol Barcelona,12.0,Spain,"1,00 Mill. ",70.0,63.0,68.0,67.0,68.0,71.0,56.0,High / Medium,12.0,2.0,2.0,0.17,395.0,789.0,Marc Navarro,Right-Back,"1,00 Mill. ",
+33.0,0.0,16.0,0.0,6.0,0.0,1300.0,,RCD Espanyol Barcelona,31.0,Spain,"1,00 Mill. ",78.0,68.0,56.0,72.0,78.0,80.0,60.0,Medium / High,38.0,6.0,1.0,0.03,2.5660000000000003,2566.0,Javi Fuego,Defensive Midfield,"1,50 Mill. ",
+20.0,0.0,0.0,0.0,0.0,0.0,126.0,,RCD Espanyol Barcelona,11.0,Spain,600 Th. ,49.0,71.0,66.0,65.0,60.0,70.0,62.0,Medium / Medium,6.0,2.0,0.0,0,,297.0,Oscar Melendo,Attacking Midfield,500 Th. ,
+26.0,4.0,10.0,1.0,0.0,1.0,876.0,,Real Sociedad,34.0,Spain,"25,00 Mill. ",82.0,62.0,71.0,63.0,79.0,82.0,56.0,Medium / Medium,32.0,7.5,3.0,0.09,1.0,2999.0,Iñigo Martínez,Centre-Back,"20,00 Mill. ",294
+20.0,8.0,13.0,3.0,0.0,6.0,1146.0,,Real Sociedad,38.0,Spain,"30,00 Mill. ",33.0,79.0,73.0,76.0,57.0,79.0,73.0,High / Medium,62.0,13.2,2.0,0.05,1.361,2722.0,Mikel Oyarzabal,Left Wing,"15,00 Mill. ",160
+22.0,5.0,16.0,4.0,2.0,0.0,1463.0,,Real Sociedad,15.0,Spain,"20,00 Mill. ",78.0,67.0,86.0,70.0,67.0,80.0,50.0,High / Medium,50.0,6.5,0.0,0,,1286.0,Álvaro Odriozola,Right-Back,"10,00 Mill. ","1,124"
+27.0,3.0,16.0,3.0,2.0,3.0,1440.0,,Real Sociedad,34.0,Spain,"15,00 Mill. ",77.0,78.0,60.0,77.0,70.0,81.0,66.0,Medium / High,58.0,9.5,1.0,0.03,3.0039999999999996,3004.0,Asier Illarramendi,Defensive Midfield,"15,00 Mill. ",3
+24.0,0.0,12.0,0.0,1.0,2.0,1070.0,,Real Sociedad,25.0,Spain,"12,00 Mill. ",84.0,68.0,65.0,68.0,76.0,82.0,44.0,Medium / Medium,32.0,3.5,2.0,0.08,1.015,2029.0,Diego Llorente,Centre-Back,"7,50 Mill. ",3
+26.0,4.0,17.0,1.0,0.0,5.0,1428.0,,Real Sociedad,28.0,Brazil,"12,00 Mill. ",36.0,76.0,66.0,66.0,76.0,82.0,82.0,Medium / Low,67.0,12.5,12.0,0.43,173.0,2080.0,Willian José,Centre-Forward,"12,00 Mill. ",0
+25.0,0.0,17.0,0.0,2.0,0.0,1530.0,10.0,Real Sociedad,38.0,Argentina,"10,00 Mill. ",54.0,86.0,85.0,75.0,82.0,83.0,79.0,No,37.0,9.5,0.0,0,,3420.0,Gerónimo Rulli,Keeper,"14,00 Mill. ",170
+22.0,3.0,8.0,3.0,0.0,2.0,669.0,,Real Sociedad,31.0,Belgium,"10,00 Mill. ",21.0,81.0,79.0,75.0,50.0,77.0,66.0,Medium / Low,38.0,3.5,0.0,0,,1630.0,Adnan Januzaj,Right Wing,"8,50 Mill. ",359
+24.0,1.0,6.0,0.0,0.0,3.0,507.0,,Real Sociedad,35.0,Spain,"7,50 Mill. ",30.0,77.0,77.0,67.0,54.0,75.0,73.0,Medium / Medium,33.0,9.6,11.0,0.31,166.0,1831.0,Juanmi,Right Wing,"10,00 Mill. ","1,251"
+22.0,0.0,0.0,0.0,0.0,0.0,63.0,,Real Sociedad,12.0,Spain,"3,00 Mill. ",23.0,67.0,62.0,54.0,48.0,70.0,75.0,Medium / Medium,4.0,2.0,3.0,0.25,101.0,304.0,Jon Bautista,Centre-Forward,"5,00 Mill. ",36
+34.0,5.0,17.0,3.0,2.0,2.0,1411.0,,Real Sociedad,38.0,Spain,"3,00 Mill. ",46.0,75.0,48.0,84.0,58.0,79.0,75.0,Medium / Medium,60.0,15.8,8.0,0.21,353.0,2824.0,Xabi Prieto,Central Midfield,"3,00 Mill. ",143
+31.0,1.0,13.0,0.0,1.0,0.0,1086.0,,Real Sociedad,31.0,Spain,"3,00 Mill. ",71.0,77.0,68.0,76.0,72.0,79.0,72.0,Medium / Medium,31.0,5.5,3.0,0.1,835.0,2504.0,David Zurutuza,Central Midfield,"3,00 Mill. ",51
+26.0,4.0,5.0,0.0,0.0,0.0,504.0,,Real Sociedad,31.0,Spain,"4,00 Mill. ",30.0,83.0,67.0,85.0,55.0,82.0,77.0,High / Medium,23.0,4.5,0.0,0,,989.0,Sergio Canales,Attacking Midfield,"3,00 Mill. ",158
+23.0,0.0,12.0,2.0,2.0,1.0,1092.0,,Real Sociedad,2.0,Portugal,"3,00 Mill. ",68.0,60.0,74.0,64.0,52.0,70.0,44.0,Medium / Medium,41.0,4.5,0.0,0,,103.0,Kévin Rodrigues,Left-Back,"1,00 Mill. ",183
+25.0,0.0,0.0,0.0,0.0,0.0,21.0,,Real Sociedad,16.0,Spain,"3,00 Mill. ",61.0,78.0,67.0,78.0,60.0,79.0,68.0,Medium / Medium,2.0,2.0,1.0,0.06,1.272,1272.0,Rubén Pardo,Central Midfield,"4,00 Mill. ",97
+29.0,1.0,5.0,1.0,1.0,0.0,442.0,,Real Sociedad,32.0,Spain,"3,00 Mill. ",79.0,48.0,53.0,59.0,70.0,78.0,45.0,Medium / Medium,16.0,2.5,1.0,0.03,2.798,2798.0,Raúl Navas,Centre-Back,"5,00 Mill. ",131
+23.0,0.0,17.0,0.0,7.0,0.0,1530.0,,Athletic Bilbao,33.0,France,"25,00 Mill. ",86.0,62.0,69.0,66.0,78.0,84.0,50.0,Medium / Medium,51.0,10.5,2.0,0.06,1.433,2865.0,Aymeric Laporte,Centre-Back,"25,00 Mill. ",507
+23.0,7.0,14.0,3.0,0.0,3.0,1283.0,,Athletic Bilbao,38.0,Spain,"25,00 Mill. ",34.0,79.0,93.0,73.0,79.0,81.0,78.0,High / High,57.0,16.0,5.0,0.13,560.0,2800.0,Iñaki Williams,Right Wing,"25,00 Mill. ",669
+23.0,0.0,14.0,0.0,4.0,0.0,1260.0,8.0,Athletic Bilbao,23.0,Spain,"20,00 Mill. ",34.0,81.0,78.0,75.0,76.0,79.0,81.0,No,40.0,3.5,0.0,0,,2016.0,Kepa Arrizabalaga,Keeper,"8,00 Mill. ","32,002"
+28.0,1.0,12.0,0.0,6.0,0.0,1027.0,,Athletic Bilbao,35.0,Spain,"9,00 Mill. ",79.0,70.0,43.0,70.0,78.0,80.0,70.0,Medium / Medium,32.0,9.4,4.0,0.11,666.0,2665.0,Mikel San José,Defensive Midfield,"12,00 Mill. ",669
+31.0,4.0,15.0,1.0,8.0,3.0,1317.0,,Athletic Bilbao,36.0,Spain,"9,00 Mill. ",66.0,77.0,57.0,82.0,76.0,81.0,76.0,High / Medium,65.0,16.8,10.0,0.28,288.0,2884.0,Raúl García,Attacking Midfield,"12,00 Mill. ",126
+25.0,3.0,4.0,2.0,0.0,1.0,405.0,,Athletic Bilbao,35.0,Spain,"9,00 Mill. ",43.0,82.0,81.0,72.0,49.0,78.0,70.0,High / Medium,21.0,4.0,7.0,0.2,345.0,2413.0,Iker Muniain,Left Wing,"15,00 Mill. ",403
+24.0,1.0,10.0,0.0,5.0,0.0,1025.0,,Athletic Bilbao,25.0,Spain,"7,50 Mill. ",67.0,75.0,73.0,74.0,73.0,75.0,64.0,Medium / High,41.0,5.5,2.0,0.08,786.0,1571.0,Iñigo Lekue,Right-Back,"4,00 Mill. ","1,060"
+30.0,2.0,12.0,2.0,6.0,1.0,1092.0,,Athletic Bilbao,26.0,Spain,"7,50 Mill. ",28.0,78.0,74.0,82.0,64.0,78.0,71.0,High / Medium,48.0,6.5,1.0,0.04,1.102,1102.0,Markel Susaeta,Right Wing,"7,50 Mill. ",121
+22.0,1.0,0.0,0.0,0.0,0.0,0.0,,Athletic Bilbao,26.0,Spain,"7,50 Mill. ",77.0,63.0,68.0,57.0,75.0,78.0,49.0,Medium / High,0.0,2.0,0.0,0,,2270.0,Yeray Álvarez,Centre-Back,"15,00 Mill. ",155
+28.0,4.0,7.0,0.0,4.0,0.0,471.0,,Athletic Bilbao,27.0,Spain,"6,00 Mill. ",74.0,78.0,86.0,73.0,79.0,81.0,62.0,High / Medium,28.0,3.5,1.0,0.04,2.149,2149.0,Óscar de Marcos,Right-Back,"8,00 Mill. ",133
+24.0,1.0,8.0,1.0,2.0,1.0,630.0,,Athletic Bilbao,17.0,Spain,"6,00 Mill. ",67.0,63.0,57.0,66.0,75.0,71.0,57.0,Medium / Medium,23.0,2.0,1.0,0.06,1.409,1409.0,Mikel Vesga,Defensive Midfield,"6,00 Mill. ",89
+30.0,5.0,2.0,0.0,2.0,0.0,248.0,,Athletic Bilbao,32.0,Spain,"5,00 Mill. ",66.0,75.0,58.0,84.0,74.0,82.0,75.0,Medium / Medium,12.0,2.6,1.0,0.03,2.4419999999999997,2442.0,Beñat Etxebarria,Central Midfield,"8,00 Mill. ",175
+28.0,1.0,9.0,0.0,2.0,0.0,843.0,,Athletic Bilbao,24.0,Spain,"5,00 Mill. ",79.0,70.0,59.0,77.0,72.0,81.0,63.0,High / Medium,23.0,3.0,0.0,0,,1152.0,Ander Iturraspe,Defensive Midfield,"5,00 Mill. ",109
+29.0,1.0,12.0,2.0,5.0,0.0,1058.0,,Athletic Bilbao,33.0,Spain,"5,00 Mill. ",78.0,71.0,75.0,71.0,77.0,79.0,49.0,High / Medium,44.0,8.1,1.0,0.03,2.8510000000000004,2851.0,Mikel Balenziaga,Left-Back,"5,00 Mill. ",159
+29.0,0.0,4.0,0.0,4.0,0.0,360.0,7.0,Athletic Bilbao,21.0,Spain,"3,00 Mill. ",45.0,73.0,76.0,66.0,75.0,76.0,83.0,No,27.0,3.5,0.0,0,,1827.0,Iago Herrerín,Keeper,"3,00 Mill. ",56
+30.0,0.0,2.0,0.0,2.0,1.0,180.0,,Athletic Bilbao,10.0,Spain,"2,50 Mill. ",78.0,57.0,52.0,48.0,81.0,78.0,35.0,Low / Medium,15.0,2.5,0.0,0,,711.0,Xabier Etxeita,Centre-Back,"2,50 Mill. ",311
+33.0,0.0,6.0,0.0,4.0,0.0,575.0,,Athletic Bilbao,18.0,Spain,"1,50 Mill. ",70.0,68.0,53.0,70.0,75.0,74.0,63.0,Medium / Medium,18.0,3.0,1.0,0.06,468.0,468.0,Mikel Rico,Central Midfield,"2,00 Mill. ",38
+25.0,2.0,1.0,0.0,0.0,0.0,72.0,,Athletic Bilbao,13.0,Spain,"1,50 Mill. ",43.0,75.0,77.0,68.0,61.0,75.0,72.0,Medium / Medium,6.0,2.0,1.0,0.08,436.0,436.0,Sabin Merino,Left Wing,"2,00 Mill. ",51
+36.0,1.0,13.0,1.0,0.0,4.0,1264.0,,Athletic Bilbao,32.0,Spain,"1,00 Mill. ",46.0,76.0,70.0,64.0,79.0,84.0,83.0,High / Medium,57.0,13.3,16.0,0.5,152.0,2429.0,Aritz Aduriz,Centre-Forward,"1,00 Mill. ",
+25.0,0.0,5.0,0.0,3.0,0.0,472.0,,Athletic Bilbao,9.0,Spain,400 Th. ,68.0,65.0,71.0,62.0,75.0,69.0,47.0,High / Medium,23.0,2.5,0.0,0,,460.0,Enric Saborit,Left-Back,500 Th. ,
+24.0,2.0,16.0,1.0,5.0,3.0,1370.0,,Valencia CF,24.0,France,"25,00 Mill. ",73.0,75.0,69.0,71.0,81.0,76.0,60.0,High / Medium,56.0,7.0,1.0,0.04,1714.0,1714.0,Geoffrey Kondogbia,Central Midfield,"18,00 Mill. ",551
+26.0,1.0,14.0,0.0,0.0,10.0,1211.0,,Valencia CF,20.0,Italy,"25,00 Mill. ",48.0,80.0,79.0,65.0,86.0,83.0,86.0,High / High,70.0,9.0,6.0,0.3,229.0,1376.0,Simone Zaza,Centre-Forward,"16,00 Mill. ","1,024"
+20.0,1.0,14.0,4.0,5.0,1.0,1180.0,,Valencia CF,23.0,Spain,"25,00 Mill. ",65.0,72.0,76.0,77.0,59.0,76.0,72.0,Medium / Medium,59.0,6.5,3.0,0.13,575.0,1724.0,Carlos Soler,Central Midfield,"7,50 Mill. ",3
+26.0,4.0,17.0,3.0,0.0,7.0,1423.0,,Valencia CF,19.0,Spain,"25,00 Mill. ",32.0,78.0,91.0,70.0,68.0,78.0,75.0,High / Medium,82.0,9.5,5.0,0.26,284.0,1419.0,Rodrigo,Centre-Forward,"7,50 Mill. ",53
+22.0,3.0,16.0,3.0,5.0,0.0,1380.0,,Valencia CF,27.0,Spain,"25,00 Mill. ",75.0,77.0,86.0,75.0,68.0,79.0,58.0,High / Medium,61.0,7.0,1.0,0.04,2.089,2089.0,José Gayá,Left-Back,"18,00 Mill. ",0
+28.0,9.0,17.0,3.0,6.0,1.0,1513.0,,Valencia CF,36.0,Spain,"18,00 Mill. ",61.0,77.0,52.0,87.0,71.0,82.0,77.0,Medium / Medium,64.0,13.9,5.0,0.14,639.0,3195.0,Dani Parejo,Central Midfield,"15,00 Mill. ",850
+31.0,0.0,11.0,0.0,3.0,0.0,994.0,,Valencia CF,27.0,Argentina,"15,00 Mill. ",84.0,65.0,43.0,66.0,80.0,83.0,64.0,Medium / Medium,36.0,3.5,3.0,0.11,780.0,2340.0,Ezequiel Garay,Centre-Back,"15,00 Mill. ","1,837"
+26.0,1.0,14.0,2.0,5.0,0.0,1245.0,,Valencia CF,29.0,Spain,"15,00 Mill. ",75.0,72.0,83.0,69.0,71.0,77.0,50.0,High / Medium,51.0,6.0,2.0,0.07,1.11,2220.0,Martín Montoya,Right-Back,"10,00 Mill. ",690
+27.0,0.0,10.0,0.0,0.0,0.0,1182.0,,Valencia CF,19.0,Brazil,"15,00 Mill. ",80.0,64.0,66.0,65.0,76.0,79.0,49.0,Low / High,55.0,6.0,0.0,0,,1515.0,Gabriel Paulista,Centre-Back,"13,00 Mill. ","1,630"
+25.0,1.0,7.0,0.0,4.0,0.0,610.0,,Valencia CF,27.0,Colombia,"15,00 Mill. ",80.0,64.0,75.0,56.0,77.0,79.0,40.0,Medium / High,29.0,2.0,0.0,0,,2075.0,Jeison Murillo,Centre-Back,"13,00 Mill. ",160
+22.0,3.0,5.0,1.0,0.0,5.0,619.0,,Valencia CF,29.0,Spain,"10,00 Mill. ",52.0,77.0,78.0,67.0,67.0,76.0,75.0,Medium / Medium,50.0,7.0,6.0,0.21,234.0,1403.0,Santi Mina,Centre-Forward,"6,00 Mill. ","1,017"
+28.0,0.0,17.0,0.0,6.0,0.0,1530.0,6.0,Valencia CF,8.0,Brazil,"10,00 Mill. ",53.0,83.0,84.0,74.0,74.0,80.0,80.0,No,65.0,8.0,0.0,0,,674.0,Neto,Keeper,"6,00 Mill. ",155
+22.0,3.0,10.0,3.0,2.0,1.0,864.0,,Valencia CF,35.0,Brazil,"7,50 Mill. ",62.0,81.0,72.0,76.0,69.0,77.0,71.0,High / High,42.0,6.0,5.0,0.14,566.0,2832.0,Andreas Pereira,Left Wing,"5,00 Mill. ",13
+23.0,0.0,5.0,0.0,1.0,0.0,477.0,,Valencia CF,18.0,Portugal,"4,00 Mill. ",75.0,55.0,64.0,59.0,72.0,74.0,49.0,Medium / Medium,17.0,2.0,0.0,0,,1489.0,Rúben Vezo,Centre-Back,"1,50 Mill. ",223
+27.0,0.0,1.0,0.0,0.0,0.0,90.0,1.0,Valencia CF,3.0,Spain,"2,50 Mill. ",58.0,79.0,74.0,70.0,72.0,75.0,73.0,No,2.0,2.0,0.0,0,,270.0,Jaume Doménech,Keeper,"2,50 Mill. ",89
+24.0,1.0,0.0,0.0,0.0,0.0,0.0,,Valencia CF,5.0,Spain,"1,50 Mill. ",47.0,75.0,76.0,70.0,50.0,72.0,67.0,High / Medium,0.0,2.0,2.0,0.4,84.0,167.0,Robert Ibáñez,Right Wing,"1,50 Mill. ",
+25.0,9.0,13.0,4.0,6.0,4.0,1068.0,,Real Madrid,30.0,Spain,"75,00 Mill. ",54.0,89.0,71.0,82.0,62.0,86.0,83.0,High / Medium,73.0,14.0,10.0,0.33,164.0,1637.0,Isco,Attacking Midfield,"40,00 Mill. ","2,456"
+32.0,6.0,13.0,2.0,0.0,3.0,1156.0,,Real Madrid,29.0,Portugal,"120,00 Mill. ",34.0,92.0,91.0,84.0,82.0,95.0,95.0,High / Low,50.0,23.0,25.0,0.86,102.0,2544.0,Cristiano Ronaldo,Centre-Forward,"100,00 Mill. ","32,002"
+27.0,12.0,14.0,2.0,6.0,2.0,1185.0,,Real Madrid,29.0,Germany,"80,00 Mill. ",73.0,81.0,50.0,88.0,70.0,90.0,81.0,Medium / Medium,54.0,11.1,3.0,0.1,833.0,2500.0,Toni Kroos,Central Midfield,"70,00 Mill. ","2,138"
+28.0,3.0,5.0,1.0,0.0,4.0,498.0,,Real Madrid,19.0,Wales,"75,00 Mill. ",57.0,86.0,94.0,84.0,76.0,89.0,87.0,High / Medium,33.0,3.5,7.0,0.37,204.0,1428.0,Gareth Bale,Right Wing,"80,00 Mill. ","4,811"
+30.0,5.0,11.0,3.0,0.0,2.0,883.0,,Real Madrid,29.0,France,"50,00 Mill. ",22.0,83.0,80.0,80.0,77.0,87.0,85.0,Medium / Low,45.0,11.5,11.0,0.38,174.0,1913.0,Karim Benzema,Centre-Forward,"60,00 Mill. ","3,270"
+21.0,2.0,9.0,3.0,4.0,4.0,889.0,,Real Madrid,23.0,Spain,"50,00 Mill. ",39.0,83.0,78.0,83.0,61.0,84.0,79.0,Medium / Medium,63.0,6.5,3.0,0.13,359.0,1077.0,Marco Asensio,Left Wing,"30,00 Mill. ","4,257"
+25.0,5.0,10.0,0.0,3.0,0.0,900.0,,Real Madrid,23.0,Spain,"45,00 Mill. ",82.0,79.0,82.0,73.0,78.0,84.0,45.0,High / Medium,24.0,2.0,0.0,0,,2014.0,Daniel Carvajal,Right-Back,"32,00 Mill. ",10
+32.0,2.0,12.0,0.0,6.0,0.0,1049.0,,Real Madrid,25.0,Croatia,"40,00 Mill. ",72.0,89.0,73.0,86.0,65.0,89.0,75.0,High / Medium,34.0,4.3,1.0,0.04,1.892,1892.0,Luka Modric,Central Midfield,"40,00 Mill. ",20
+25.0,0.0,14.0,0.0,6.0,3.0,1202.0,,Real Madrid,25.0,Brazil,"40,00 Mill. ",84.0,72.0,62.0,74.0,86.0,85.0,68.0,Medium / High,50.0,5.5,4.0,0.16,427.0,1707.0,Casemiro,Defensive Midfield,"30,00 Mill. ","1,837"
+31.0,0.0,13.0,1.0,6.0,0.0,1125.0,,Real Madrid,28.0,Spain,"40,00 Mill. ",88.0,72.0,76.0,71.0,83.0,90.0,63.0,High / Medium,45.0,7.4,7.0,0.25,356.0,2489.0,Sergio Ramos,Centre-Back,"40,00 Mill. ","4,272"
+29.0,10.0,13.0,1.0,5.0,1.0,1129.0,,Real Madrid,30.0,Brazil,"40,00 Mill. ",82.0,85.0,78.0,80.0,79.0,87.0,69.0,High / Medium,50.0,11.5,2.0,0.07,1.139,2277.0,Marcelo,Left-Back,"38,00 Mill. ",62
+24.0,2.0,11.0,0.0,4.0,0.0,945.0,,Real Madrid,23.0,France,"40,00 Mill. ",84.0,65.0,79.0,61.0,79.0,85.0,45.0,Medium / High,38.0,3.5,1.0,0.04,1.9269999999999998,1927.0,Raphaël Varane,Centre-Back,"35,00 Mill. ",991
+23.0,3.0,1.0,0.0,0.0,0.0,156.0,,Real Madrid,27.0,Croatia,"25,00 Mill. ",61.0,84.0,81.0,82.0,69.0,82.0,69.0,High / Medium,6.0,2.0,1.0,0.04,1.6880000000000002,1688.0,Mateo Kovacic,Central Midfield,"25,00 Mill. ",6
+27.0,3.0,10.0,0.0,6.0,1.0,1015.0,,Real Madrid,28.0,Spain,"20,00 Mill. ",81.0,64.0,76.0,65.0,78.0,81.0,37.0,Medium / Medium,50.0,7.0,2.0,0.07,1.151,2301.0,Nacho Fernández,Centre-Back,"15,00 Mill. ","4,782"
+21.0,2.0,2.0,0.0,1.0,2.0,186.0,,Real Madrid,30.0,Spain,"17,00 Mill. ",70.0,80.0,68.0,76.0,64.0,78.0,61.0,Medium / Medium,21.0,2.0,2.0,0.07,1.168,2335.0,Dani Ceballos,Central Midfield,"17,00 Mill. ",9
+20.0,4.0,3.0,0.0,1.0,0.0,296.0,,Real Madrid,32.0,France,"20,00 Mill. ",72.0,74.0,84.0,63.0,76.0,75.0,56.0,Medium / Medium,12.0,2.0,1.0,0.03,2.7260000000000004,2726.0,Theo Hernández,Left-Back,"20,00 Mill. ","2,138"
+31.0,0.0,10.0,0.0,4.0,0.0,900.0,5.0,Real Madrid,27.0,Costa Rica,"18,00 Mill. ",54.0,85.0,87.0,72.0,80.0,85.0,82.0,No,38.0,3.0,0.0,0,,2430.0,Keylor Navas,Keeper,"18,00 Mill. ","1,199"
+20.0,1.0,3.0,0.0,2.0,0.0,270.0,,Real Madrid,25.0,Spain,"15,00 Mill. ",79.0,63.0,73.0,56.0,70.0,77.0,41.0,Low / High,15.0,2.0,1.0,0.04,2055.0,2055.0,Jesús Vallejo,Centre-Back,"15,00 Mill. ",17
+26.0,9.0,5.0,1.0,1.0,1.0,566.0,,Real Madrid,33.0,Spain,"15,00 Mill. ",38.0,82.0,81.0,81.0,67.0,82.0,75.0,High / High,32.0,5.8,2.0,0.06,692.0,1383.0,Lucas Vázquez,Right Wing,"15,00 Mill. ",962
+22.0,2.0,2.0,0.0,0.0,0.0,237.0,,Real Madrid,32.0,Spain,"15,00 Mill. ",71.0,70.0,55.0,72.0,71.0,77.0,48.0,Medium / Medium,9.0,2.0,0.0,0,,2805.0,Marcos Llorente,Defensive Midfield,"15,00 Mill. ",991
+20.0,0.0,1.0,0.0,0.0,1.0,119.0,,Real Madrid,19.0,Spain,"7,50 Mill. ",18.0,69.0,74.0,57.0,52.0,72.0,72.0,High / Medium,14.0,2.0,2.0,0.105,184.0,374.0,Borja Mayoral,Centre-Forward,"2,50 Mill. ",17
+31.0,0.0,7.0,0.0,3.0,0.0,630.0,5.0,Real Madrid,11.0,Spain,"6,00 Mill. ",32.0,77.0,75.0,80.0,82.0,80.0,83.0,No,30.0,2.0,0.0,0,,990.0,Kiko Casilla,Keeper,"6,00 Mill. ",982
+19.0,8.0,5.0,0.0,2.0,1.0,426.0,,Real Madrid,28.0,Morocco,"5,00 Mill. ",64.0,69.0,77.0,65.0,70.0,70.0,59.0,High / Medium,25.0,2.5,1.0,0.035,2304.0,2304.0,Achraf Hakimi,Right-Back,300 Th. ,292
+30.0,4.0,17.0,2.0,0.0,10.0,1529.0,,Celta de Vigo,32.0,Spain,"18,00 Mill. ",33.0,89.0,84.0,80.0,69.0,86.0,88.0,High / High,80.0,16.0,19.0,0.59,122.0,2318.0,Iago Aspas,Right Wing,"18,00 Mill. ","3,270"
+22.0,4.0,18.0,11.0,3.0,1.0,1477.0,,Celta de Vigo,30.0,Denmark,"15,00 Mill. ",52.0,79.0,84.0,64.0,66.0,74.0,72.0,High / Medium,82.0,9.5,3.0,0.1,555.0,1664.0,Pione Sisto,Left Wing,"5,00 Mill. ","5,308"
+21.0,3.0,17.0,2.0,0.0,8.0,1448.0,,Celta de Vigo,12.0,Uruguay,"12,00 Mill. ",24.0,63.0,66.0,57.0,68.0,70.0,69.0,Medium / Medium,70.0,8.0,10.0,0.83,98.0,980.0,Maximiliano Gómez,Centre-Forward,"4,00 Mill. ",53
+26.0,1.0,16.0,2.0,3.0,0.0,1401.0,,Celta de Vigo,23.0,Spain,"10,00 Mill. ",77.0,74.0,74.0,70.0,76.0,80.0,40.0,High / Medium,43.0,6.0,2.0,0.09,994.0,1988.0,Hugo Mallo,Right-Back,"8,00 Mill. ","1,251"
+28.0,4.0,17.0,5.0,3.0,4.0,1494.0,,Celta de Vigo,32.0,Denmark,"10,00 Mill. ",70.0,84.0,78.0,86.0,74.0,83.0,80.0,Medium / Medium,78.0,10.1,3.0,0.09,798.0,2394.0,Daniel Wass,Central Midfield,"10,00 Mill. ",121
+25.0,0.0,12.0,0.0,1.0,2.0,1000.0,,Celta de Vigo,25.0,Spain,"8,00 Mill. ",78.0,63.0,43.0,64.0,73.0,77.0,41.0,High / Medium,42.0,5.0,0.0,0,,1904.0,Sergi Gómez,Centre-Back,"6,00 Mill. ",133
+20.0,3.0,1.0,0.0,0.0,1.0,242.0,,Celta de Vigo,12.0,Turkey,"5,00 Mill. ",25.0,83.0,85.0,55.0,51.0,70.0,62.0,High / Low,16.0,2.5,1.0,0.08,475.0,475.0,Emre Mor,Right Wing,"5,00 Mill. ",48
+31.0,0.0,11.0,0.0,1.0,2.0,1059.0,,Celta de Vigo,26.0,Chile,"5,00 Mill. ",42.0,78.0,71.0,73.0,58.0,74.0,70.0,Medium / Medium,41.0,6.0,1.0,0.04,1.8969999999999998,1897.0,Pablo Hernández,Central Midfield,"6,00 Mill. ",545
+24.0,1.0,3.0,0.0,0.0,0.0,325.0,,Celta de Vigo,31.0,Serbia,"5,00 Mill. ",76.0,70.0,50.0,67.0,74.0,78.0,68.0,High / Medium,11.0,2.5,1.0,0.03,2.42,2420.0,Nemanja Radoja,Defensive Midfield,"8,00 Mill. ",6
+25.0,2.0,8.0,0.0,0.0,0.0,107.0,,Celta de Vigo,23.0,Sweden,"5,00 Mill. ",30.0,76.0,65.0,65.0,75.0,78.0,80.0,High / Medium,8.0,8.0,4.0,0.17,267.0,1066.0,John Guidetti,Centre-Forward,"8,00 Mill. ",291
+32.0,1.0,13.0,1.0,3.0,1.0,1235.0,,Celta de Vigo,25.0,Argentina,"4,00 Mill. ",81.0,57.0,42.0,56.0,78.0,80.0,31.0,Medium / Medium,47.0,6.0,2.0,0.08,1.09,2179.0,Gustavo Cabral,Centre-Back,"4,00 Mill. ",215
+26.0,2.0,10.0,2.0,2.0,0.0,808.0,,Celta de Vigo,19.0,Spain,"3,50 Mill. ",66.0,74.0,66.0,72.0,65.0,77.0,72.0,Medium / Medium,30.0,5.0,2.0,0.11,547.0,1093.0,Jozabed Sánchez,Central Midfield,"3,50 Mill. ",0
+28.0,1.0,9.0,1.0,2.0,1.0,814.0,,Celta de Vigo,17.0,Spain,"3,50 Mill. ",79.0,61.0,31.0,67.0,67.0,78.0,48.0,Medium / Medium,34.0,3.0,1.0,0.06,1.462,1462.0,Andreu Fontàs,Centre-Back,"2,50 Mill. ",175
+31.0,0.0,6.0,0.0,1.0,0.0,575.0,5.0,Celta de Vigo,26.0,Spain,"2,50 Mill. ",44.0,80.0,77.0,75.0,78.0,77.0,72.0,No,16.0,2.0,0.0,0,,2340.0,Sergio Álvarez,Keeper,"5,00 Mill. ",97
+30.0,0.0,2.0,0.0,0.0,0.0,224.0,,Celta de Vigo,32.0,Argentina,"3,00 Mill. ",78.0,64.0,67.0,68.0,72.0,77.0,53.0,Medium / High,5.0,2.0,2.0,0.06,1.358,2716.0,Facundo Roncaglia,Centre-Back,"5,00 Mill. ",291
+22.0,0.0,12.0,0.0,2.0,0.0,1080.0,2.0,Celta de Vigo,11.0,Spain,"2,50 Mill. ",54.0,71.0,79.0,69.0,75.0,75.0,74.0,No,30.0,3.5,0.0,0,,990.0,Rubén Blanco,Keeper,"1,50 Mill. ","1,181"
+22.0,0.0,0.0,0.0,0.0,0.0,12.0,,Celta de Vigo,7.0,Denmark,"1,00 Mill. ",45.0,69.0,79.0,64.0,66.0,67.0,62.0,Medium / Medium,2.0,2.0,1.0,0.14,259.0,259.0,Andrew Hjulsager,Central Midfield,"1,20 Mill. ",
+26.0,2.0,15.0,0.0,0.0,8.0,1269.0,,Villarreal CF,26.0,DR Congo,"25,00 Mill. ",40.0,84.0,90.0,78.0,79.0,84.0,83.0,Medium / Medium,67.0,9.5,10.0,0.38,157.0,1567.0,Cédric Bakambu,Centre-Forward,"16,00 Mill. ",392
+27.0,3.0,14.0,1.0,6.0,1.0,1275.0,,Villarreal CF,36.0,Spain,"16,00 Mill. ",80.0,73.0,81.0,70.0,81.0,81.0,70.0,High / Medium,58.0,13.5,0.0,0,,3240.0,Mario Gaspar,Right-Back,"16,00 Mill. ",48
+28.0,1.0,15.0,1.0,7.0,0.0,1350.0,,Villarreal CF,28.0,Spain,"14,00 Mill. ",83.0,61.0,58.0,64.0,81.0,82.0,42.0,Medium / Medium,53.0,7.0,1.0,0.04,2.367,2367.0,Víctor Ruiz,Centre-Back,"14,00 Mill. ",551
+26.0,4.0,3.0,1.0,0.0,3.0,300.0,,Villarreal CF,32.0,Italy,"12,00 Mill. ",40.0,86.0,85.0,80.0,73.0,82.0,85.0,Medium / Medium,29.0,5.2,8.0,0.25,266.0,2131.0,Nicola Sansone,Centre-Forward,"16,00 Mill. ","1,024"
+26.0,7.0,6.0,0.0,2.0,0.0,562.0,,Villarreal CF,33.0,Italy,"12,00 Mill. ",63.0,80.0,77.0,80.0,73.0,80.0,77.0,Medium / Medium,21.0,9.0,10.0,0.3,247.0,2467.0,Roberto Soriano,Left Midfield,"16,00 Mill. ",294
+21.0,3.0,16.0,6.0,6.0,1.0,1435.0,,Villarreal CF,32.0,Spain,"15,00 Mill. ",69.0,75.0,61.0,76.0,65.0,77.0,66.0,Medium / Medium,67.0,11.0,6.0,0.19,446.0,2673.0,Pablo Fornals,Central Midfield,"12,00 Mill. ","1,372"
+26.0,1.0,16.0,3.0,6.0,1.0,1371.0,,Villarreal CF,37.0,Spain,"15,00 Mill. ",65.0,81.0,73.0,80.0,69.0,82.0,74.0,Medium / Medium,46.0,13.5,5.0,0.14,608.0,3042.0,Manu Trigueros,Central Midfield,"15,00 Mill. ",322
+31.0,5.0,14.0,3.0,0.0,5.0,1152.0,,Villarreal CF,32.0,Colombia,"12,00 Mill. ",24.0,79.0,77.0,64.0,70.0,82.0,79.0,Medium / Low,62.0,7.0,13.0,0.4,164.0,2128.0,Carlos Bacca,Centre-Forward,"18,00 Mill. ",6
+23.0,0.0,3.0,0.0,0.0,0.0,231.0,,Villarreal CF,24.0,Portugal,"8,00 Mill. ",78.0,64.0,72.0,51.0,82.0,78.0,52.0,Medium / High,5.0,2.0,0.0,0,,2090.0,Rúben Semedo,Centre-Back,"14,00 Mill. ",184
+29.0,3.0,16.0,0.0,7.0,0.0,1404.0,,Villarreal CF,31.0,Spain,"9,00 Mill. ",76.0,74.0,83.0,71.0,72.0,79.0,59.0,High / High,53.0,8.9,1.0,0.03,2.681,2681.0,Jaume Costa,Left-Back,"9,00 Mill. ",276
+27.0,1.0,16.0,1.0,6.0,0.0,1406.0,,Villarreal CF,23.0,Spain,"7,50 Mill. ",76.0,58.0,70.0,54.0,76.0,77.0,30.0,Medium / High,48.0,6.5,1.0,0.04,1.883,1883.0,Álvaro González,Centre-Back,"6,00 Mill. ",78
+28.0,0.0,4.0,0.0,2.0,0.0,360.0,12.0,Villarreal CF,24.0,Spain,"7,50 Mill. ",59.0,85.0,86.0,76.0,82.0,84.0,83.0,No,18.0,3.0,0.0,0,,2105.0,Sergio Asenjo,Keeper,"7,50 Mill. ",669
+22.0,4.0,11.0,3.0,0.0,1.0,923.0,,Villarreal CF,33.0,Spain,"7,00 Mill. ",37.0,81.0,86.0,79.0,48.0,80.0,67.0,Medium / High,44.0,7.5,2.0,0.06,1.026,2051.0,Samu Castillejo,Right Wing,"7,00 Mill. ",276
+20.0,4.0,9.0,1.0,0.0,3.0,852.0,,Villarreal CF,32.0,Turkey,"6,00 Mill. ",32.0,72.0,70.0,61.0,66.0,74.0,77.0,High / Medium,38.0,4.0,18.0,0.56,152.0,2729.0,Enes Ünal,Centre-Forward,"14,00 Mill. ",940
+27.0,0.0,1.0,1.0,1.0,0.0,213.0,,Villarreal CF,11.0,Russia,"3,00 Mill. ",56.0,79.0,80.0,75.0,70.0,79.0,74.0,High / Low,15.0,2.0,0.0,0,,33.0,Denis Cheryshev,Left Wing,"3,00 Mill. ",109
+33.0,2.0,0.0,0.0,0.0,0.0,0.0,,Villarreal CF,34.0,Spain,"3,00 Mill. ",78.0,75.0,41.0,79.0,77.0,84.0,72.0,Medium / High,0.0,2.0,4.0,0.12,746.0,2984.0,Bruno Soriano,Defensive Midfield,"5,00 Mill. ",6
+36.0,0.0,3.0,0.0,1.0,0.0,304.0,,Villarreal CF,6.0,Italy,200 Th. ,80.0,48.0,34.0,52.0,68.0,77.0,38.0,Low / High,8.0,2.0,0.0,0,,540.0,Daniele Bonera,Centre-Back,200 Th. ,
+21.0,2.0,10.0,3.0,3.0,2.0,877.0,,Real Betis Balompié,18.0,Spain,"7,50 Mill. ",70.0,67.0,54.0,70.0,61.0,70.0,64.0,Medium / Medium,50.0,5.5,1.0,0.055,1347.0,1347.0,Fabián Ruiz,Central Midfield,500 Th. ,51
+21.0,1.0,6.0,0.0,0.0,7.0,638.0,,Real Betis Balompié,22.0,Paraguay,"7,50 Mill. ",30.0,85.0,84.0,78.0,70.0,82.0,82.0,High / Medium,49.0,5.0,3.0,0.14,499.0,1496.0,Antonio Sanabria,Centre-Forward,"5,00 Mill. ",170
+27.0,9.0,3.0,1.0,0.0,1.0,402.0,,Real Betis Balompié,33.0,Algeria,"6,00 Mill. ",32.0,81.0,76.0,82.0,62.0,81.0,78.0,High / Medium,22.0,2.5,11.0,0.33,266.0,2925.0,Ryad Boudebouz,Attacking Midfield,"10,00 Mill. ",5
+26.0,1.0,16.0,0.0,4.0,0.0,1440.0,,Real Betis Balompié,26.0,Algeria,"6,00 Mill. ",78.0,69.0,68.0,73.0,72.0,78.0,46.0,High / Medium,39.0,5.0,2.0,0.08,1.1079999999999999,2216.0,Aïssa Mandi,Centre-Back,"6,00 Mill. ",184
+30.0,0.0,18.0,0.0,4.0,0.0,1620.0,10.0,Real Betis Balompié,37.0,Spain,"8,00 Mill. ",55.0,82.0,80.0,72.0,81.0,81.0,83.0,No,47.0,6.0,0.0,0,,3330.0,Antonio Adán,Keeper,"8,00 Mill. ",267
+23.0,3.0,14.0,2.0,3.0,1.0,1253.0,,Real Betis Balompié,27.0,Denmark,"6,00 Mill. ",66.0,73.0,85.0,70.0,75.0,73.0,62.0,High / Medium,48.0,6.0,1.0,0.04,2.388,2388.0,Riza Durmisi,Left-Back,"6,00 Mill. ",54
+26.0,7.0,9.0,3.0,0.0,3.0,930.0,,Real Betis Balompié,37.0,Spain,"6,00 Mill. ",28.0,80.0,90.0,70.0,59.0,77.0,70.0,Medium / Low,46.0,6.0,4.0,0.1,527.0,2107.0,Cristian Tello,Left Wing,"8,00 Mill. ",472
+23.0,1.0,11.0,0.0,2.0,1.0,866.0,,Real Betis Balompié,31.0,Spain,"6,00 Mill. ",66.0,74.0,63.0,73.0,75.0,76.0,68.0,High / Medium,32.0,6.8,3.0,0.1,836.0,2507.0,Víctor Camarasa,Central Midfield,"7,00 Mill. ",183
+31.0,9.0,13.0,6.0,3.0,1.0,1240.0,,Real Betis Balompié,27.0,Mexico,"5,00 Mill. ",67.0,82.0,76.0,80.0,68.0,80.0,64.0,Medium / Medium,56.0,6.5,2.0,0.07,1138.0,2275.0,Andrés Guardado,Defensive Midfield,"6,00 Mill. ",82
+28.0,2.0,14.0,1.0,0.0,6.0,1237.0,,Real Betis Balompié,33.0,Spain,"5,00 Mill. ",34.0,76.0,76.0,56.0,69.0,77.0,78.0,High / Medium,56.0,10.5,10.0,0.3,240.0,2401.0,Sergio León,Centre-Forward,"3,50 Mill. ",90
+30.0,0.0,13.0,0.0,3.0,0.0,1162.0,,Real Betis Balompié,22.0,Spain,"4,00 Mill. ",77.0,68.0,65.0,67.0,81.0,78.0,63.0,Medium / High,34.0,5.0,1.0,0.04,1923.0,1923.0,Javi García,Defensive Midfield,"5,00 Mill. ",59
+28.0,1.0,11.0,0.0,2.0,3.0,1022.0,,Real Betis Balompié,27.0,Morocco,"3,00 Mill. ",78.0,58.0,55.0,58.0,76.0,77.0,49.0,Medium / Medium,40.0,2.5,2.0,0.07,1.123,2245.0,Zouhair Feddal,Centre-Back,"3,00 Mill. ",472
+25.0,4.0,1.0,1.0,0.0,1.0,89.0,,Real Betis Balompié,19.0,Costa Rica,"3,00 Mill. ",42.0,78.0,85.0,73.0,71.0,77.0,73.0,High / Medium,12.0,2.0,3.0,0.157,253.0,760.0,Joel Campbell,Right Wing,"6,00 Mill. ",48
+25.0,0.0,10.0,0.0,3.0,0.0,873.0,,Real Betis Balompié,17.0,Spain,"2,50 Mill. ",76.0,58.0,68.0,53.0,76.0,77.0,48.0,Low / High,17.0,2.0,0.0,0,,1407.0,Jordi Amat,Centre-Back,"2,50 Mill. ",0
+23.0,2.0,1.0,0.0,0.0,0.0,112.0,,Real Betis Balompié,18.0,Spain,"1,00 Mill. ",68.0,67.0,79.0,60.0,50.0,70.0,44.0,High / Medium,3.0,2.0,2.0,0.11,644.0,1288.0,Rafa Navarro,Right-Back,"1,50 Mill. ",
+36.0,4.0,17.0,4.0,3.0,3.0,1408.0,,Real Betis Balompié,28.0,Spain,500 Th. ,23.0,86.0,82.0,81.0,51.0,82.0,74.0,High / Medium,67.0,8.9,3.0,0.11,559.0,1678.0,Joaquín,Right Wing,500 Th. ,
+27.0,0.0,0.0,0.0,0.0,0.0,0.0,,Real Betis Balompié,14.0,Chile,"2,50 Mill. ",60.0,75.0,68.0,74.0,62.0,75.0,68.0,Medium / Medium,0.0,4.5,1.0,0.07,753.0,753.0,Felipe Gutiérrez,Central Midfield,"2,50 Mill. ",
+36.0,3.0,0.0,0.0,0.0,0.0,0.0,,Real Betis Balompié,35.0,Spain,900 Th. ,23.0,83.0,78.0,65.0,64.0,81.0,80.0,Medium / Low,0.0,4.5,13.0,0.37,214.0,2782.0,Rubén Castro,Centre-Forward,"1,00 Mill. ",
+29.0,3.0,10.0,0.0,3.0,0.0,820.0,,Sevilla FC,35.0,France,"30,00 Mill. ",80.0,71.0,57.0,73.0,88.0,83.0,67.0,Medium / Medium,28.0,9.0,2.0,0.06,1.5330000000000001,3066.0,Steven N'Zonzi,Defensive Midfield,"30,00 Mill. ",690
+27.0,5.0,8.0,0.0,0.0,5.0,730.0,,Sevilla FC,31.0,France,"25,00 Mill. ",37.0,88.0,85.0,80.0,70.0,84.0,85.0,High / High,41.0,7.0,11.0,0.35,152.0,1668.0,Wissam Ben Yedder,Centre-Forward,"15,00 Mill. ",780
+25.0,9.0,10.0,3.0,3.0,1.0,936.0,,Sevilla FC,34.0,Spain,"18,00 Mill. ",35.0,85.0,80.0,85.0,58.0,83.0,80.0,High / Medium,47.0,11.0,8.0,0.24,266.0,2131.0,Pablo Sarabia,Left Wing,"15,00 Mill. ",13
+24.0,0.0,10.0,0.0,4.0,0.0,985.0,12.0,Sevilla FC,35.0,Spain,"20,00 Mill. ",50.0,83.0,80.0,78.0,81.0,81.0,79.0,No,36.0,5.0,0.0,0,,3150.0,Sergio Rico,Keeper,"20,00 Mill. ","4,811"
+22.0,0.0,15.0,0.0,6.0,3.0,1335.0,,Sevilla FC,17.0,France,"15,00 Mill. ",78.0,56.0,73.0,52.0,75.0,78.0,33.0,Medium / High,66.0,8.0,0.0,0,,1375.0,Clément Lenglet,Centre-Back,"7,50 Mill. ","4,272"
+26.0,9.0,9.0,0.0,0.0,3.0,842.0,,Sevilla FC,31.0,Colombia,"15,00 Mill. ",24.0,84.0,89.0,68.0,72.0,80.0,77.0,High / Low,37.0,4.0,11.0,0.35,205.0,2258.0,Luis Muriel,Centre-Forward,"20,00 Mill. ",474
+28.0,2.0,9.0,3.0,2.0,1.0,739.0,,Sevilla FC,30.0,Italy,"12,00 Mill. ",43.0,84.0,64.0,79.0,75.0,82.0,77.0,Medium / High,38.0,8.2,7.0,0.23,299.0,2092.0,Franco Vázquez,Attacking Midfield,"18,00 Mill. ",392
+27.0,1.0,11.0,0.0,3.0,1.0,993.0,,Sevilla FC,16.0,Argentina,"15,00 Mill. ",74.0,70.0,60.0,71.0,84.0,78.0,62.0,Medium / High,32.0,3.5,0.0,0,,1350.0,Guido Pizarro,Defensive Midfield,"6,00 Mill. ",62
+29.0,7.0,9.0,2.0,2.0,0.0,930.0,,Sevilla FC,28.0,Argentina,"12,00 Mill. ",66.0,86.0,71.0,88.0,70.0,85.0,75.0,Medium / Medium,34.0,4.5,6.0,0.21,260.0,1560.0,Éver Banega,Central Midfield,"9,00 Mill. ",780
+23.0,1.0,5.0,0.0,2.0,0.0,427.0,,Sevilla FC,26.0,Argentina,"10,00 Mill. ",33.0,74.0,73.0,73.0,60.0,73.0,70.0,Medium / Medium,17.0,2.0,4.0,0.15,327.0,1309.0,Joaquín Correa,Left Wing,"10,00 Mill. ",17
+24.0,0.0,4.0,1.0,1.0,0.0,399.0,,Sevilla FC,18.0,Germany,"8,00 Mill. ",73.0,69.0,48.0,81.0,77.0,77.0,66.0,Low / Medium,18.0,2.0,0.0,0,,1332.0,Johannes Geis,Defensive Midfield,"10,00 Mill. ",117
+28.0,3.0,11.0,1.0,5.0,0.0,990.0,,Sevilla FC,26.0,Spain,"7,50 Mill. ",76.0,71.0,75.0,73.0,73.0,79.0,56.0,High / Medium,41.0,4.0,0.0,0,,2281.0,Sergio Escudero,Left-Back,"7,50 Mill. ",359
+27.0,4.0,8.0,1.0,1.0,0.0,727.0,,Sevilla FC,38.0,France,"7,50 Mill. ",77.0,76.0,77.0,75.0,72.0,79.0,65.0,High / Medium,20.0,2.0,1.0,0.026,3418.0,3418.0,Sébastien Corchia,Right-Back,"7,50 Mill. ","1,298"
+31.0,2.0,8.0,4.0,0.0,2.0,770.0,,Sevilla FC,19.0,Spain,"6,00 Mill. ",39.0,80.0,72.0,76.0,67.0,79.0,78.0,High / Low,44.0,4.5,4.0,0.21,194.0,776.0,Nolito,Left Wing,"9,00 Mill. ","1,397"
+32.0,2.0,11.0,0.0,4.0,1.0,1010.0,,Sevilla FC,24.0,Spain,"6,00 Mill. ",28.0,81.0,88.0,73.0,50.0,78.0,65.0,Medium / Medium,37.0,5.0,0.0,0,,1056.0,Jesús Navas,Right Wing,"9,00 Mill. ",165
+30.0,1.0,10.0,1.0,6.0,0.0,869.0,,Sevilla FC,29.0,Argentina,"5,00 Mill. ",75.0,60.0,75.0,64.0,81.0,76.0,54.0,Medium / Medium,42.0,4.0,3.0,0.1,729.0,2186.0,Gabriel Mercado,Right-Back,"5,00 Mill. ",912
+28.0,1.0,6.0,0.0,4.0,2.0,457.0,,Sevilla FC,10.0,Brazil,"3,50 Mill. ",38.0,80.0,35.0,84.0,63.0,80.0,75.0,Medium / Low,31.0,2.0,2.0,0.2,243.0,485.0,Ganso,Attacking Midfield,"5,00 Mill. ",108
+24.0,0.0,7.0,0.0,2.0,0.0,545.0,1.0,Sevilla FC,1.0,Spain,"3,00 Mill. ",49.0,71.0,76.0,58.0,78.0,73.0,67.0,No,23.0,2.0,0.0,0,,90.0,David Soria,Keeper,"1,50 Mill. ",54
+26.0,3.0,5.0,1.0,1.0,0.0,450.0,,Sevilla FC,25.0,France,"3,00 Mill. ",71.0,73.0,83.0,65.0,77.0,74.0,40.0,High / Medium,17.0,2.0,0.0,0,,2198.0,Lionel Carole,Left-Back,"3,25 Mill. ",133
+29.0,0.0,3.0,0.0,2.0,0.0,270.0,,Sevilla FC,6.0,Portugal,"1,50 Mill. ",80.0,64.0,57.0,68.0,78.0,80.0,53.0,Medium / Medium,13.0,2.0,0.0,0,,554.0,Daniel Carriço,Centre-Back,"2,00 Mill. ",132
+33.0,1.0,2.0,0.0,2.0,0.0,135.0,,Sevilla FC,27.0,Argentina,"1,00 Mill. ",79.0,66.0,38.0,70.0,69.0,79.0,60.0,Medium / Medium,12.0,2.0,1.0,0.04,2.165,2165.0,Nicolás Pareja,Centre-Back,"1,00 Mill. ",
+27.0,1.0,15.0,0.0,5.0,0.0,1317.0,,SD Eibar,36.0,Spain,"5,00 Mill. ",73.0,71.0,48.0,74.0,80.0,81.0,58.0,Medium / High,35.0,10.5,1.0,0.03,3.185,3185.0,Dani García,Central Midfield,"5,00 Mill. ",917
+27.0,7.0,12.0,1.0,0.0,3.0,1155.0,,SD Eibar,38.0,Spain,"5,00 Mill. ",42.0,75.0,66.0,69.0,79.0,80.0,77.0,High / High,45.0,13.1,11.0,0.29,257.0,2829.0,Sergi Enrich,Centre-Forward,"10,00 Mill. ",6
+25.0,3.0,17.0,1.0,5.0,0.0,1446.0,,SD Eibar,31.0,Spain,"5,00 Mill. ",72.0,76.0,86.0,69.0,84.0,78.0,63.0,High / High,52.0,7.5,0.0,0,,2553.0,Ander Capa,Right-Back,"5,00 Mill. ",133
+29.0,4.0,16.0,1.0,4.0,2.0,1300.0,,SD Eibar,28.0,Japan,"3,50 Mill. ",44.0,91.0,88.0,79.0,66.0,82.0,76.0,Medium / Medium,54.0,8.0,3.0,0.11,696.0,2089.0,Takashi Inui,Left Wing,"3,00 Mill. ",178
+25.0,0.0,15.0,0.0,5.0,0.0,1350.0,,SD Eibar,13.0,Portugal,"3,00 Mill. ",79.0,62.0,68.0,50.0,79.0,78.0,35.0,Medium / High,45.0,5.0,0.0,0,,917.0,Paulo Oliveira,Centre-Back,"4,00 Mill. ",917
+31.0,6.0,0.0,0.0,0.0,0.0,0.0,,SD Eibar,37.0,Spain,"2,50 Mill. ",40.0,81.0,67.0,83.0,62.0,80.0,76.0,High / Low,0.0,3.8,10.0,0.27,301.0,3011.0,Pedro León,Right Wing,"5,00 Mill. ",6
+28.0,3.0,12.0,0.0,0.0,1.0,998.0,,SD Eibar,24.0,Spain,"2,50 Mill. ",32.0,71.0,70.0,59.0,75.0,76.0,74.0,Medium / Medium,32.0,5.5,7.0,0.29,220.0,1538.0,Kike,Centre-Forward,"3,00 Mill. ",159
+24.0,3.0,8.0,0.0,2.0,1.0,724.0,,SD Eibar,30.0,Argentina,"2,50 Mill. ",77.0,72.0,67.0,69.0,79.0,78.0,61.0,Medium / High,27.0,4.0,2.0,0.07,1.01,2019.0,Gonzalo Escalante,Central Midfield,"5,00 Mill. ",47
+31.0,3.0,0.0,0.0,0.0,1.0,19.0,,SD Eibar,23.0,Chile,"2,00 Mill. ",32.0,83.0,80.0,76.0,50.0,80.0,73.0,High / Medium,6.0,2.0,3.0,0.13,590.0,1771.0,Fabián Orellana,Right Wing,"3,00 Mill. ",35
+30.0,0.0,4.0,0.0,0.0,0.0,345.0,,SD Eibar,21.0,Spain,"1,50 Mill. ",75.0,57.0,36.0,64.0,79.0,75.0,59.0,Medium / Medium,5.0,2.0,1.0,0.05,1.84,1840.0,David Lombán,Centre-Back,"2,50 Mill. ",30
+27.0,3.0,3.0,0.0,0.0,0.0,343.0,,SD Eibar,20.0,Portugal,"1,50 Mill. ",28.0,74.0,83.0,69.0,78.0,74.0,73.0,Medium / Low,13.0,2.0,3.0,0.15,227.0,681.0,Bebé,Left Wing,"2,50 Mill. ",411
+22.0,1.0,7.0,3.0,2.0,1.0,557.0,,SD Eibar,28.0,Spain,"1,50 Mill. ",43.0,70.0,80.0,63.0,61.0,68.0,57.0,Medium / Medium,35.0,3.5,1.0,0.0357,1431.0,1431.0,Iván Alejo,Right Wing,300 Th. ,130
+33.0,1.0,8.0,1.0,0.0,5.0,720.0,,SD Eibar,21.0,Brazil,"1,50 Mill. ",65.0,83.0,79.0,87.0,75.0,81.0,78.0,Medium / Medium,49.0,5.5,3.0,0.14,378.0,1135.0,Charles,Centre-Forward,"1,50 Mill. ",5
+30.0,1.0,0.0,0.0,0.0,0.0,0.0,,SD Eibar,17.0,Spain,"1,00 Mill. ",70.0,70.0,58.0,76.0,71.0,76.0,66.0,Medium / Medium,0.0,2.0,2.0,0.12,613.0,1226.0,Fran Rico,Central Midfield,"2,50 Mill. ",
+26.0,0.0,3.0,0.0,1.0,0.0,376.0,,SD Eibar,28.0,Spain,"1,00 Mill. ",57.0,75.0,86.0,65.0,64.0,73.0,70.0,Medium / Medium,16.0,2.5,1.0,0.04,1.05,1050.0,Rubén Peña,Right Wing,"1,50 Mill. ",
+33.0,0.0,4.0,0.0,2.0,0.0,342.0,,SD Eibar,22.0,Spain,500 Th. ,77.0,59.0,38.0,63.0,83.0,77.0,61.0,Medium / High,14.0,2.0,3.0,0.14,574.0,1721.0,Iván Ramis,Centre-Back,"1,00 Mill. ",
+29.0,1.0,12.0,1.0,0.0,2.0,1110.0,,Deportivo de La Coruña,1.0,Spain,"10,00 Mill. ",31.0,80.0,81.0,76.0,71.0,81.0,82.0,High / Medium,47.0,7.0,1.0,1,90.0,90.0,Lucas Pérez,Centre-Forward,"15,00 Mill. ",3
+28.0,0.0,14.0,1.0,2.0,1.0,1215.0,,Deportivo de La Coruña,29.0,Brazil,"6,00 Mill. ",80.0,68.0,51.0,59.0,81.0,80.0,50.0,High / Medium,38.0,4.5,1.0,0.03,2.491,2491.0,Sidnei,Centre-Back,"6,00 Mill. ","1,060"
+29.0,0.0,16.0,1.0,3.0,3.0,1365.0,,Deportivo de La Coruña,34.0,Costa Rica,"5,00 Mill. ",76.0,73.0,61.0,73.0,74.0,78.0,77.0,High / Medium,55.0,9.5,6.0,0.18,454.0,2724.0,Celso Borges,Central Midfield,"5,00 Mill. ",97
+26.0,1.0,17.0,0.0,3.0,0.0,1446.0,,Deportivo de La Coruña,30.0,Brazil,"4,00 Mill. ",77.0,60.0,79.0,53.0,83.0,77.0,33.0,Low / High,34.0,6.5,2.0,0.07,1.141,2281.0,Guilherme,Defensive Midfield,"4,00 Mill. ",190
+24.0,3.0,7.0,2.0,0.0,4.0,769.0,,Deportivo de La Coruña,37.0,Romania,"4,00 Mill. ",45.0,75.0,78.0,62.0,80.0,79.0,78.0,High / High,38.0,9.5,12.0,0.32,242.0,2901.0,Florin Andone,Centre-Forward,"5,00 Mill. ",182
+29.0,1.0,8.0,2.0,0.0,3.0,780.0,,Deportivo de La Coruña,15.0,Spain,"3,50 Mill. ",27.0,80.0,66.0,67.0,63.0,75.0,73.0,Medium / Medium,38.0,3.5,2.0,0.13,338.0,676.0,Adrián López,Centre-Forward,"3,50 Mill. ",222
+26.0,9.0,8.0,1.0,2.0,0.0,634.0,,Deportivo de La Coruña,33.0,Turkey,"4,00 Mill. ",44.0,81.0,73.0,78.0,48.0,79.0,75.0,Medium / Medium,25.0,5.5,3.0,0.09,825.0,2475.0,Emre Colak,Attacking Midfield,"7,50 Mill. ",1
+26.0,0.0,15.0,1.0,2.0,2.0,1320.0,,Deportivo de La Coruña,6.0,Switzerland,"3,00 Mill. ",74.0,67.0,56.0,70.0,75.0,75.0,63.0,High / Medium,44.0,4.5,0.0,0,,282.0,Fabian Schär,Centre-Back,"2,50 Mill. ",468
+29.0,0.0,5.0,1.0,0.0,0.0,466.0,,Deportivo de La Coruña,23.0,Spain,"2,00 Mill. ",70.0,70.0,56.0,75.0,75.0,78.0,59.0,Medium / Medium,15.0,2.0,3.0,0.13,518.0,1555.0,Pedro Mosquera,Central Midfield,"4,00 Mill. ",38
+21.0,1.0,6.0,0.0,0.0,0.0,502.0,,Deportivo de La Coruña,18.0,Belgium,"1,80 Mill. ",17.0,79.0,87.0,65.0,38.0,72.0,70.0,Medium / Medium,16.0,2.0,1.0,0.06,274.0,274.0,Zakaria Bakkali,Left Wing,"2,00 Mill. ",109
+29.0,1.0,4.0,0.0,1.0,0.0,405.0,,Deportivo de La Coruña,27.0,Spain,"1,50 Mill. ",74.0,42.0,35.0,52.0,82.0,74.0,47.0,Medium / Medium,9.0,2.5,1.0,0.04,2.336,2336.0,Raúl Albentosa,Centre-Back,"3,00 Mill. ",35
+30.0,0.0,6.0,0.0,1.0,0.0,540.0,1.0,Deportivo de La Coruña,2.0,Romania,"1,50 Mill. ",48.0,77.0,73.0,67.0,78.0,76.0,76.0,No,17.0,2.0,0.0,0,,81.0,Costel Pantilimon,Keeper,"3,00 Mill. ",240
+32.0,2.0,13.0,1.0,2.0,1.0,1182.0,,Deportivo de La Coruña,26.0,Portugal,"1,50 Mill. ",76.0,76.0,70.0,73.0,65.0,77.0,53.0,High / Medium,33.0,3.5,0.0,0,,1907.0,Luisinho,Left-Back,"1,80 Mill. ",6
+25.0,4.0,4.0,0.0,1.0,0.0,330.0,,Deportivo de La Coruña,23.0,Spain,"1,50 Mill. ",39.0,79.0,70.0,78.0,55.0,78.0,69.0,High / Low,12.0,2.5,1.0,0.04,1.41,1410.0,Carles Gil,Right Wing,"2,50 Mill. ",26
+24.0,3.0,1.0,0.0,0.0,0.0,96.0,,Deportivo de La Coruña,33.0,Spain,500 Th. ,63.0,76.0,92.0,63.0,66.0,71.0,36.0,High / Medium,2.0,2.0,0.0,0,,2484.0,Gerard Valentín,Right-Back,"1,00 Mill. ",
+35.0,0.0,5.0,0.0,1.0,0.0,475.0,,Deportivo de La Coruña,25.0,Spain,300 Th. ,66.0,68.0,85.0,64.0,61.0,71.0,58.0,High / High,12.0,2.0,0.0,0,,2050.0,Fernando Navarro,Left-Back,500 Th. ,
+28.0,1.0,0.0,0.0,0.0,0.0,31.0,,Getafe CF,13.0,Ecuador,"2,00 Mill. ",31.0,81.0,90.0,73.0,65.0,78.0,68.0,High / High,3.0,2.0,0.0,0,,373.0,Jefferson Montero,Left Wing,"4,50 Mill. ",196
+25.0,2.0,4.0,0.0,1.0,1.0,331.0,,Getafe CF,12.0,Japan,"1,50 Mill. ",70.0,76.0,71.0,74.0,65.0,75.0,65.0,High / Medium,17.0,2.0,1.0,0.08,768.0,768.0,Gaku Shibasaki,Central Midfield,"2,00 Mill. ",209
+27.0,0.0,1.0,0.0,1.0,0.0,98.0,,Getafe CF,16.0,Spain,800 Th. ,78.0,46.0,37.0,48.0,81.0,77.0,33.0,Medium / Medium,9.0,2.0,1.0,0.06,1.33,1330.0,Bruno González,Centre-Back,"1,00 Mill. ",
+29.0,0.0,0.0,0.0,0.0,0.0,0.0,,Getafe CF,22.0,Argentina,600 Th. ,71.0,55.0,68.0,60.0,74.0,72.0,50.0,Medium / Medium,0.0,2.0,1.0,0.03,1667.0,1667.0,Nicolás Gorosito,Centre-Back,800 Th. ,
+35.0,6.0,17.0,2.0,0.0,2.0,1471.0,,Getafe CF,39.0,Spain,500 Th. ,37.0,60.0,32.0,57.0,81.0,73.0,76.0,Medium / Medium,57.0,7.5,20.0,0.51,162.0,3235.0,Jorge Molina,Centre-Forward,500 Th. ,
+38.0,0.0,2.0,0.0,1.0,0.0,341.0,,Getafe CF,19.0,Spain,100 Th. ,60.0,61.0,41.0,76.0,68.0,70.0,63.0,Medium / Medium,17.0,3.0,0.0,0,,1624.0,Sergio Mora,Central Midfield,100 Th. ,
+28.0,1.0,14.0,0.0,10.0,0.0,1184.0,,CD Leganés,30.0,Spain,"5,00 Mill. ",70.0,66.0,57.0,68.0,77.0,75.0,56.0,Medium / Medium,39.0,4.5,0.0,0,,2315.0,Rubén Pérez,Defensive Midfield,"2,50 Mill. ",97
+29.0,2.0,13.0,2.0,6.0,1.0,1064.0,,CD Leganés,28.0,Argentina,"4,00 Mill. ",39.0,77.0,88.0,72.0,62.0,78.0,72.0,High / Medium,50.0,6.5,8.0,0.29,255.0,2039.0,Alexander Szymanowski,Left Wing,"5,00 Mill. ",24
+30.0,3.0,6.0,3.0,0.0,0.0,577.0,,CD Leganés,29.0,Morocco,"3,00 Mill. ",57.0,81.0,81.0,76.0,72.0,79.0,75.0,High / Medium,26.0,3.0,0.0,0,,2100.0,Nordin Amrabat,Right Wing,"4,50 Mill. ","2,416"
+29.0,2.0,10.0,0.0,0.0,2.0,943.0,,CD Leganés,13.0,Guadeloupe,"3,00 Mill. ",44.0,72.0,70.0,68.0,58.0,74.0,72.0,Medium / Low,33.0,5.0,1.0,0.08,652.0,652.0,Claudio Beauvue,Centre-Forward,"3,00 Mill. ",190
+29.0,0.0,10.0,1.0,5.0,0.0,857.0,,CD Leganés,16.0,Greece,"2,50 Mill. ",76.0,62.0,39.0,55.0,83.0,75.0,44.0,Medium / High,35.0,3.0,1.0,0.06,1.392,1392.0,Dimitrios Siovas,Centre-Back,"3,00 Mill. ",182
+31.0,4.0,7.0,0.0,6.0,1.0,809.0,,CD Leganés,26.0,Morocco,"2,00 Mill. ",34.0,78.0,74.0,71.0,62.0,75.0,73.0,Medium / Low,35.0,5.0,4.0,0.15,508.0,2032.0,Nabil El Zhar,Right Wing,"2,00 Mill. ",131
+24.0,0.0,11.0,0.0,6.0,1.0,990.0,,CD Leganés,25.0,Spain,"2,00 Mill. ",74.0,67.0,76.0,69.0,78.0,76.0,56.0,Medium / Medium,45.0,3.5,1.0,0.04,2.222,2222.0,Diego Rico,Left-Back,"2,00 Mill. ",15
+25.0,1.0,6.0,0.0,3.0,0.0,436.0,,CD Leganés,25.0,Serbia,"2,00 Mill. ",62.0,67.0,62.0,69.0,73.0,73.0,66.0,Medium / High,17.0,2.0,1.0,0.04,1.6280000000000001,1628.0,Darko Brasanac,Central Midfield,"4,00 Mill. ",1
+27.0,1.0,5.0,0.0,0.0,1.0,476.0,,CD Leganés,31.0,Spain,"1,20 Mill. ",36.0,68.0,70.0,61.0,68.0,74.0,73.0,High / Medium,14.0,2.5,5.0,0.16,429.0,2146.0,Miguel Ángel Guerrero,Centre-Forward,"1,50 Mill. ",
+28.0,4.0,8.0,0.0,4.0,0.0,739.0,,CD Leganés,36.0,Spain,"1,00 Mill. ",66.0,77.0,57.0,82.0,76.0,81.0,76.0,High / Medium,33.0,3.0,10.0,0.28,288.0,2884.0,Raúl García,Left-Back,"1,00 Mill. ",
+33.0,0.0,5.0,0.0,3.0,1.0,450.0,,CD Leganés,31.0,Argentina,500 Th. ,74.0,60.0,39.0,56.0,82.0,75.0,42.0,High / Medium,27.0,2.0,1.0,0.03,2.698,2698.0,Martín Mantovani,Centre-Back,800 Th. ,
+22.0,3.0,13.0,3.0,0.0,3.0,1164.0,,Deportivo Alavés,33.0,Spain,"9,00 Mill. ",27.0,79.0,81.0,62.0,56.0,75.0,74.0,High / Medium,51.0,8.5,6.0,0.18,339.0,2032.0,Munir El Haddadi,Centre-Forward,"9,00 Mill. ",44
+21.0,8.0,13.0,2.0,4.0,0.0,1225.0,,Deportivo Alavés,23.0,Spain,"3,50 Mill. ",47.0,74.0,77.0,66.0,62.0,72.0,69.0,Medium / Medium,40.0,6.0,6.0,0.26,304.0,1823.0,Alfonso Pedraza,Left Wing,"1,00 Mill. ",48
+28.0,3.0,12.0,2.0,3.0,3.0,997.0,,Deportivo Alavés,29.0,Spain,"3,00 Mill. ",57.0,86.0,81.0,83.0,73.0,81.0,83.0,High / Medium,56.0,8.5,5.0,0.17,366.0,1828.0,Ibai Gómez,Left Wing,"2,00 Mill. ",0
+24.0,0.0,13.0,0.0,2.0,0.0,1170.0,,Deportivo Alavés,10.0,Brazil,"3,00 Mill. ",75.0,53.0,68.0,38.0,78.0,74.0,26.0,Medium / High,27.0,3.5,1.0,0.1,788.0,788.0,Rodrigo Ely,Centre-Back,"3,00 Mill. ",82
+23.0,0.0,9.0,0.0,2.0,1.0,826.0,,Deportivo Alavés,16.0,Spain,"2,00 Mill. ",63.0,72.0,61.0,77.0,56.0,74.0,68.0,Medium / Medium,29.0,2.5,2.0,0.13,473.0,946.0,Álvaro Medrán,Central Midfield,"2,50 Mill. ",109
+31.0,1.0,14.0,0.0,4.0,1.0,1256.0,,Deportivo Alavés,25.0,Spain,"1,80 Mill. ",29.0,76.0,74.0,67.0,40.0,69.0,57.0,High / Medium,33.0,5.0,3.0,0.12,662.0,1987.0,Manu García,Defensive Midfield,"1,50 Mill. ",21
+28.0,1.0,0.0,0.0,0.0,0.0,0.0,,Deportivo Alavés,26.0,Spain,"1,50 Mill. ",76.0,48.0,63.0,53.0,82.0,76.0,40.0,Medium / High,0.0,2.0,2.0,0.08,1.075,2149.0,Víctor Laguardia,Centre-Back,"3,00 Mill. ",1
+24.0,4.0,7.0,0.0,2.0,1.0,598.0,,Deportivo Alavés,32.0,Spain,"1,50 Mill. ",31.0,75.0,78.0,70.0,60.0,75.0,67.0,Medium / Low,27.0,4.0,2.0,0.06,996.0,1992.0,Burgui,Left Wing,"3,00 Mill. ",59
+29.0,1.0,5.0,0.0,0.0,2.0,472.0,,Deportivo Alavés,21.0,Venezuela,"1,50 Mill. ",37.0,69.0,62.0,68.0,67.0,73.0,75.0,Medium / Medium,18.0,2.0,3.0,0.14,276.0,827.0,Christian Santos,Centre-Forward,"1,50 Mill. ",
+26.0,3.0,0.0,0.0,0.0,0.0,52.0,,Deportivo Alavés,20.0,Serbia,"1,00 Mill. ",36.0,78.0,65.0,73.0,64.0,74.0,74.0,Medium / Low,3.0,2.0,3.0,0.15,257.0,770.0,Aleksandar Katai,Right Wing,"2,00 Mill. ",
+27.0,1.0,8.0,0.0,1.0,0.0,673.0,,Deportivo Alavés,11.0,Ghana,"1,00 Mill. ",63.0,74.0,89.0,71.0,78.0,75.0,64.0,High / High,17.0,2.0,1.0,0.09,869.0,869.0,Mubarak Wakaso,Central Midfield,"1,00 Mill. ",
+25.0,1.0,3.0,0.0,0.0,0.0,294.0,,Deportivo Alavés,11.0,Spain,500 Th. ,27.0,78.0,81.0,58.0,62.0,70.0,64.0,Medium / Medium,11.0,2.0,2.0,0.18,251.0,501.0,Rubén Sobrino,Centre-Forward,500 Th. ,
+26.0,2.0,0.0,0.0,0.0,0.0,15.0,,Deportivo Alavés,13.0,Spain,400 Th. ,68.0,73.0,79.0,61.0,68.0,71.0,45.0,High / Medium,1.0,2.0,0.0,0,,913.0,Héctor Hernández,Left-Back,600 Th. ,
+28.0,0.0,14.0,2.0,1.0,0.0,1243.0,,Girona FC,11.0,Colombia,"7,00 Mill. ",75.0,51.0,54.0,59.0,77.0,76.0,44.0,Medium / High,33.0,5.0,0.0,0,,975.0,Bernardo Espinosa,Centre-Back,"4,50 Mill. ",126
+25.0,8.0,16.0,1.0,2.0,6.0,1346.0,,Girona FC,41.0,Spain,"5,00 Mill. ",61.0,76.0,79.0,71.0,73.0,75.0,73.0,Medium / Medium,72.0,8.5,8.0,0.19,405.0,3240.0,Portu,Attacking Midfield,"1,80 Mill. ",108
+19.0,0.0,1.0,0.0,0.0,0.0,259.0,,Girona FC,11.0,Brazil,"5,00 Mill. ",72.0,72.0,74.0,71.0,71.0,73.0,64.0,Medium / Medium,9.0,2.0,0.0,0,,259.0,Douglas Luiz,Central Midfield,"6,00 Mill. ",0
+31.0,0.0,15.0,0.0,0.0,8.0,1287.0,,Girona FC,23.0,Uruguay,"5,00 Mill. ",46.0,71.0,69.0,67.0,78.0,76.0,75.0,Medium / Low,60.0,6.5,4.0,0.17,340.0,1359.0,Cristhian Stuani,Centre-Forward,"3,50 Mill. ","2,416"
+25.0,0.0,10.0,1.0,2.0,0.0,870.0,,Girona FC,10.0,Spain,"4,00 Mill. ",76.0,67.0,58.0,64.0,72.0,76.0,43.0,Medium / Medium,29.0,2.0,1.0,0.1,647.0,647.0,Marc Muniesa,Centre-Back,"3,00 Mill. ",131
+20.0,1.0,16.0,1.0,3.0,0.0,1348.0,,Girona FC,14.0,Spain,"5,00 Mill. ",80.0,80.0,85.0,75.0,74.0,78.0,62.0,Medium / Medium,42.0,5.5,1.0,0.071,1112.0,1112.0,Pablo Maffeo,Right-Back,500 Th. ,"1,181"
+24.0,4.0,2.0,1.0,0.0,0.0,360.0,,Girona FC,33.0,Nigeria,"3,00 Mill. ",36.0,74.0,92.0,57.0,60.0,73.0,70.0,Medium / Medium,15.0,2.0,17.0,0.51,142.0,2407.0,Olarenwaju Kayode,Centre-Forward,"4,00 Mill. ",165
+28.0,1.0,5.0,0.0,1.0,2.0,451.0,,Girona FC,24.0,Spain,"2,00 Mill. ",71.0,67.0,52.0,74.0,78.0,77.0,61.0,Medium / High,22.0,2.5,2.0,0.08,938.0,1875.0,David Timor,Defensive Midfield,"2,00 Mill. ",15
+21.0,0.0,0.0,0.0,0.0,0.0,28.0,,Girona FC,18.0,Colombia,500 Th. ,24.0,77.0,88.0,63.0,52.0,72.0,64.0,High / High,2.0,2.0,0.0,0,,792.0,Marlos Moreno,Left Wing,"1,00 Mill. ",
+24.0,0.0,0.0,0.0,0.0,0.0,0.0,,Girona FC,2.0,Algeria,400 Th. ,36.0,74.0,79.0,66.0,51.0,70.0,65.0,High / Medium,0.0,2.0,0.0,0,,18.0,Farid Boulaya,Attacking Midfield,800 Th. ,
+32.0,0.0,0.0,0.0,0.0,0.0,0.0,,Girona FC,16.0,Spain,200 Th. ,55.0,68.0,45.0,66.0,66.0,67.0,61.0,Medium / Medium,0.0,2.0,0.0,0,,623.0,Eloi Amagat,Attacking Midfield,400 Th. ,
+25.0,0.0,6.0,0.0,0.0,1.0,703.0,,Málaga CF,18.0,Spain,"5,00 Mill. ",28.0,71.0,62.0,59.0,74.0,78.0,78.0,Medium / Low,22.0,3.0,1.0,0.05,546.0,546.0,Borja Bastón,Centre-Forward,"8,00 Mill. ",229
+24.0,0.0,9.0,0.0,0.0,3.0,770.0,,Málaga CF,29.0,Uruguay,"6,00 Mill. ",31.0,77.0,75.0,72.0,64.0,77.0,75.0,High / Medium,32.0,3.0,9.0,0.31,196.0,1764.0,Diego Rolán,Centre-Forward,"8,00 Mill. ",468
+29.0,2.0,16.0,0.0,2.0,1.0,1415.0,,Málaga CF,32.0,Venezuela,"3,50 Mill. ",78.0,84.0,81.0,78.0,77.0,81.0,67.0,High / Medium,39.0,8.0,1.0,0.03,2.861,2861.0,Roberto Rosales,Right-Back,"5,00 Mill. ",56
+26.0,2.0,15.0,1.0,2.0,0.0,1343.0,,Málaga CF,18.0,Spain,"3,50 Mill. ",72.0,73.0,56.0,75.0,73.0,77.0,66.0,Medium / Medium,30.0,4.0,3.0,0.17,453.0,1358.0,Recio,Central Midfield,"3,50 Mill. ",770
+29.0,1.0,14.0,0.0,2.0,1.0,1192.0,,Málaga CF,28.0,Spain,"3,00 Mill. ",64.0,76.0,62.0,75.0,67.0,76.0,70.0,High / Low,31.0,4.0,7.0,0.25,219.0,1531.0,Adrián González,Central Midfield,"3,00 Mill. ",545
+26.0,3.0,9.0,2.0,2.0,0.0,684.0,,Málaga CF,22.0,Spain,"2,50 Mill. ",43.0,80.0,79.0,78.0,64.0,79.0,69.0,Medium / High,30.0,2.5,0.0,0,,1052.0,Keko,Right Wing,"3,00 Mill. ",56
+20.0,3.0,1.0,0.0,0.0,0.0,345.0,,Málaga CF,18.0,Spain,"2,50 Mill. ",25.0,74.0,72.0,70.0,40.0,71.0,68.0,Medium / Low,9.0,2.0,2.0,0.11,413.0,825.0,Javier Ontiveros,Right Wing,"3,00 Mill. ",222
+22.0,0.0,9.0,0.0,2.0,1.0,726.0,,Málaga CF,3.0,Spain,"1,50 Mill. ",73.0,53.0,68.0,57.0,75.0,73.0,28.0,Medium / Medium,26.0,2.5,0.0,0,,31.0,Diego González,Centre-Back,"1,50 Mill. ",3
+26.0,1.0,1.0,0.0,0.0,0.0,214.0,,Málaga CF,24.0,Spain,"1,50 Mill. ",46.0,77.0,84.0,76.0,66.0,78.0,72.0,High / Medium,5.0,2.0,2.0,0.08,625.0,1250.0,Jony,Left Wing,"2,50 Mill. ",661
+33.0,3.0,10.0,1.0,2.0,3.0,822.0,,Málaga CF,29.0,Uruguay,"1,50 Mill. ",37.0,80.0,72.0,71.0,57.0,75.0,70.0,Medium / Medium,40.0,4.0,1.0,0.03,1.7919999999999998,1792.0,Chory Castro,Left Wing,"1,50 Mill. ",
+20.0,1.0,1.0,0.0,0.0,0.0,217.0,,Málaga CF,13.0,Morocco,800 Th. ,30.0,68.0,76.0,49.0,51.0,69.0,68.0,Medium / Medium,9.0,2.5,1.0,0.08,322.0,322.0,Youssef En-Nesyri,Centre-Forward,"1,00 Mill. ",
+25.0,1.0,2.0,0.0,0.0,0.0,180.0,,Málaga CF,33.0,Spain,700 Th. ,69.0,58.0,66.0,53.0,73.0,69.0,28.0,Low / High,3.0,3.5,2.0,0.06,1427.0,2853.0,Ignasi Miquel,Centre-Back,700 Th. ,
+33.0,1.0,0.0,0.0,0.0,0.0,0.0,,Málaga CF,15.0,Chile,"1,50 Mill. ",69.0,67.0,61.0,64.0,71.0,72.0,45.0,Medium / High,0.0,4.5,0.0,0,,1350.0,Manuel Iturra,Defensive Midfield,"1,50 Mill. ",
+30.0,0.0,0.0,0.0,0.0,0.0,0.0,,Levante UD,8.0,Spain,"2,00 Mill. ",79.0,74.0,75.0,70.0,72.0,80.0,63.0,High / Medium,0.0,4.5,1.0,00-Jan,629.0,629.0,Coke,Right-Back,"3,00 Mill. ",324
+22.0,7.0,12.0,0.0,4.0,4.0,1082.0,,Levante UD,29.0,Macedonia,"5,00 Mill. ",33.0,77.0,72.0,72.0,56.0,74.0,69.0,High / Medium,50.0,6.0,12.0,0.41,176.0,2111.0,Enis Bardhi,Attacking Midfield,"1,50 Mill. ",77
+26.0,5.0,5.0,1.0,2.0,0.0,526.0,,Levante UD,26.0,Spain,"1,50 Mill. ",71.0,70.0,73.0,66.0,78.0,75.0,61.0,Medium / Medium,19.0,2.0,1.0,0.04,2.117,2117.0,Antonio Luna,Left-Back,"2,00 Mill. ",140
+25.0,2.0,8.0,0.0,0.0,0.0,632.0,,Levante UD,25.0,Spain,"1,00 Mill. ",27.0,70.0,57.0,51.0,69.0,75.0,74.0,Medium / Medium,18.0,2.0,3.0,0.12,477.0,1431.0,Alex Alegría,Centre-Forward,"2,00 Mill. ",
+24.0,1.0,3.0,1.0,1.0,0.0,175.0,,Levante UD,17.0,Spain,600 Th. ,31.0,72.0,82.0,64.0,63.0,71.0,68.0,Medium / Medium,13.0,2.0,0.0,0,,785.0,Iván López,Right-Back,800 Th. ,
+34.0,1.0,9.0,0.0,3.0,0.0,785.0,,Levante UD,34.0,Spain,400 Th. ,61.0,43.0,53.0,42.0,62.0,60.0,31.0,Medium / Medium,27.0,2.5,0.0,0,,2825.0,Pedro López,Right-Back,500 Th. ,
+24.0,1.0,0.0,0.0,0.0,0.0,0.0,,UD Las Palmas,17.0,Spain,"2,00 Mill. ",32.0,78.0,86.0,71.0,56.0,76.0,68.0,Medium / Medium,0.0,4.5,2.0,0.11,471.0,941.0,Jairo Samperio,Left Wing,"3,00 Mill. ",35
+28.0,8.0,16.0,3.0,2.0,2.0,1364.0,,UD Las Palmas,31.0,Spain,"8,00 Mill. ",52.0,86.0,80.0,81.0,68.0,82.0,75.0,High / Low,54.0,11.3,7.0,0.23,369.0,2585.0,Jonathan Viera,Attacking Midfield,"10,00 Mill. ",5
+30.0,0.0,5.0,0.0,0.0,4.0,671.0,,UD Las Palmas,5.0,France,"8,00 Mill. ",33.0,73.0,76.0,65.0,69.0,77.0,76.0,Medium / Medium,32.0,3.5,0.0,0,,131.0,Loïc Rémy,Centre-Forward,"9,00 Mill. ",89
+22.0,0.0,13.0,0.0,2.0,0.0,1217.0,,UD Las Palmas,23.0,Uruguay,"6,00 Mill. ",78.0,70.0,70.0,57.0,74.0,77.0,54.0,High / Medium,25.0,3.5,5.0,0.22,370.0,1850.0,Mauricio Lemos,Centre-Back,"10,00 Mill. ",117
+24.0,0.0,16.0,0.0,0.0,3.0,1439.0,,UD Las Palmas,16.0,Argentina,"5,00 Mill. ",39.0,75.0,74.0,61.0,70.0,75.0,73.0,High / Medium,47.0,6.5,1.0,0.0625,531.0,531.0,Jonathan Calleri,Centre-Forward,"5,00 Mill. ",47
+27.0,1.0,10.0,0.0,1.0,0.0,805.0,,UD Las Palmas,32.0,Spain,"3,00 Mill. ",78.0,56.0,72.0,60.0,76.0,78.0,52.0,High / High,16.0,2.5,4.0,0.13,663.0,2651.0,Pedro Bigas,Centre-Back,"5,00 Mill. ",229
+29.0,1.0,6.0,0.0,1.0,0.0,580.0,,UD Las Palmas,29.0,Spain,"3,00 Mill. ",75.0,71.0,46.0,74.0,71.0,79.0,62.0,Medium / Medium,18.0,2.5,2.0,0.07,1.161,2321.0,Vicente Gómez,Defensive Midfield,"3,50 Mill. ",940
+27.0,4.0,9.0,1.0,0.0,1.0,842.0,,UD Las Palmas,32.0,Spain,"3,00 Mill. ",35.0,70.0,70.0,62.0,50.0,68.0,66.0,Medium / Low,27.0,4.5,4.0,0.13,553.0,2211.0,Tana,Attacking Midfield,"3,50 Mill. ",90
+21.0,2.0,3.0,1.0,0.0,0.0,191.0,,UD Las Palmas,18.0,Croatia,"2,50 Mill. ",28.0,80.0,76.0,76.0,44.0,77.0,64.0,High / Low,7.0,2.0,0.0,0,,645.0,Alen Halilovic,Attacking Midfield,"4,00 Mill. ",77
+30.0,2.0,13.0,2.0,2.0,0.0,1170.0,,UD Las Palmas,27.0,Spain,"2,50 Mill. ",71.0,73.0,76.0,69.0,77.0,75.0,51.0,High / Medium,34.0,4.0,0.0,0,,2110.0,Dani Castellano,Left-Back,"4,00 Mill. ",302
+22.0,1.0,2.0,0.0,0.0,0.0,145.0,,UD Las Palmas,22.0,Spain,"2,50 Mill. ",66.0,68.0,46.0,72.0,64.0,73.0,46.0,Medium / Medium,4.0,2.0,0.0,0,,1268.0,Sergi Samper,Defensive Midfield,"3,50 Mill. ",178
+31.0,0.0,2.0,0.0,0.0,0.0,183.0,,UD Las Palmas,11.0,Spain,700 Th. ,77.0,53.0,37.0,57.0,78.0,76.0,41.0,High / Medium,6.0,2.0,0.0,0,,836.0,Aythami Artiles,Centre-Back,"1,00 Mill. ",
+35.0,1.0,2.0,0.0,0.0,0.0,180.0,,UD Las Palmas,22.0,Spain,100 Th. ,73.0,64.0,62.0,60.0,76.0,75.0,36.0,Medium / Medium,2.0,2.0,1.0,0.05,1.645,1645.0,David García,Centre-Back,100 Th. ,
+35.0,0.0,2.0,0.0,0.0,0.0,180.0,,UD Las Palmas,25.0,Spain,100 Th. ,73.0,64.0,62.0,60.0,76.0,75.0,36.0,Medium / Medium,2.0,2.0,1.0,0.04,2.189,2189.0,David García,Centre-Back,100 Th. ,
+35.0,0.0,3.0,1.0,0.0,0.0,232.0,,UD Las Palmas,23.0,Spain,100 Th. ,20.0,45.0,54.0,36.0,44.0,48.0,46.0,High / High,11.0,2.0,3.0,0.13,413.0,1239.0,Momo,Left Wing,100 Th. ,
+33.0,2.0,0.0,0.0,0.0,0.0,0.0,,UD Las Palmas,15.0,Argentina,"1,20 Mill. ",68.0,72.0,46.0,72.0,80.0,74.0,68.0,Medium / Medium,0.0,4.5,4.0,0.26,307.0,1228.0,Gabriel Peñalba,Central Midfield,"1,20 Mill. ",
